@@ -81,19 +81,19 @@
  },
  {
   "title": "Truyền hình VTV1",
-  "url": "https://hatvoinhau.net/api/playtv/vtv1c.m3u8"
+  "url": "https://vtc301220.cdn.vnns.io/VTV1HD.stream/playlist.m3u8"
  },
  {
   "title": "Truyền hình VTV2",
-  "url": "https://hatvoinhau.net/api/playtv/vtv2c.m3u8"
+  "url": "http://118.107.85.4:1935/live/smil:VTV2.smil/chunklist.m3u8"
  },
  {
   "title": "Truyền hình VTV3",
-  "url": "https://hatvoinhau.net/api/playtv/vtv3c.m3u8"
+  "url": "http://118.107.85.4:1935/live/smil:VTV3.smil/chunklist.m3u8"
  },
  {
   "title": "Truyền hình VTV4",
-  "url": "https://hatvoinhau.net/api/playtv/vtv4c.m3u8"
+  "url": "http://118.107.85.4:1935/live/smil:VTV4.smil/chunklist.m3u8"
  },
  {
   "title": "Truyền hình VTV5",
@@ -129,15 +129,15 @@
  },
  {
   "title": "Truyền hình VTC1",
-  "url": "https://hatvoinhau.net/api/playtv/vtc1c.m3u8"
+  "url": "https://1236573804.pop.vnptcdn.com/VTC1/playlist.m3u8"
  },
  {
   "title": "Truyền hình VTC2",
-  "url": "https://hatvoinhau.net/api/playtv/vtv2c.m3u8"
+  "url": "https://1236573804.pop.vnptcdn.com/VTC2/playlist.m3u8"
  },
  {
   "title": "Truyền hình VTC3",
-  "url": "https://hatvoinhau.net/api/playtv/vtv3c.m3u8"
+  "url": "https://1236573804.pop.vnptcdn.com/VTC3/playlist.m3u8"
  },
  {
   "title": "Truyền hình VTC4",
@@ -409,6 +409,6 @@
  },
  {
   "title": "Truyền hình ANTV",
-  "url": "https://1011154949.vnns.net/3db4211101d9300900bc36f9edba24381706169103/antvhd.720p.adm.tms/playlist.m3u8"
+  "url": "https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8"
  }
 ]
