@@ -89,7 +89,7 @@
  },
  {
   "title": "Truyền hình VTV1",
-  "url": "https://vtc301220.cdn.vnns.io/VTV1HD.stream/playlist.m3u8"
+  "url": "http://103.101.162.86/vtv1?token=live"
  },
  {
   "title": "Truyền hình VTV2",
