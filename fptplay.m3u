@@ -335,17 +335,18 @@ https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="outdoorhd" tvg-name="Outdoor Channel" tvg-logo="https://img.lichphatsong.xyz/logo/outdoorhd.jpg" group-title="Quốc Tế",Outdoor Channel
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="afnhd" tvg-name="Asian Food Network" tvg-logo="https://i.imgur.com/B8zA2gc.png" group-title="Quốc Tế",Asian Food Network
-https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
-
 #EXTINF:0 tvg-id="cartoon" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/29px2Qy.png",CARTOON NETWORK
 https://hls.mskycdn.online/tv/cartoonhd/index.m3u8
+
+#EXTINF:-1 tvg-id="afnhd" tvg-name="Asian Food Network" tvg-logo="https://i.imgur.com/B8zA2gc.png" group-title="Quốc Tế",Asian Food Network
+https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 tvg-id="bbcearth" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/29px2Qy.png",BBC EARTH
 https://hls.mskycdn.online/tv/bbcearth/index.m3u8
 
 #EXTINF:0 tvg-id="animal" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/29px2Qy.png",ANIMAL PLANET
 https://hls.mskycdn.online/tv/animalhd/index.m3u8
+
 
 
 
