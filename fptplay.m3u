@@ -142,15 +142,15 @@ https://xem.hoiquan.click/TichHop/OnLive/LIVE/?user=onsportsnews
 https://sgchill.io.vn/v1/b521/177/index.m3u8
 #EXTINF:-1 tvg-id="onvfamily" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/HHfL7Dq/cocab20.webp",VTVcab20 -  ON V Family
 https://sgchill.io.vn/v1/b521/187/index.m3u8
-#EXTINF:-1 tvg-id="onkids" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/onkids5_1675158859.webp" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab21-cartoon-kid/${start}/${offset}",VTVcab21 - On Kids
+#EXTINF:-1 tvg-id="onkids" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/onkids5_1675158859.webp" ,VTVcab21 - On Kids
 https://sgchill.io.vn/v1/b521/179/index.m3u8
-#EXTINF:-1 tvg-id="onlife" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ONLIFE.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab22-life-tv/${start}/${offset}",VTVcab22 - On Life
+#EXTINF:-1 tvg-id="onlife" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ONLIFE.jpg" ,VTVcab22 - On Life
 https://sgchill.io.vn/v1/b521/188/index.m3u8
 #EXTINF:-1 tvg-id="ongolf" group-title="VTVcab" tvg-logo=" https://img.lichphatsong.xyz/logo/on-golf.jpg",VTVcab23 -  On Golf
 https://sgchill.io.vn/v1/b521/169/index.m3u8
 
 #--*.*--SCTV--*.*--#
-#EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/SCTV1HD.jpg", SCTV1 HD
+#EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" , SCTV1 HD
 https://liveh12.seenow.vn/hls/SCTV1/03.m3u8
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV2TODAYTV.jpg", SCTV2 HD - TODAY TV
 https://sgchill.io.vn/v1/b521/201/index.m3u8
@@ -369,5 +369,6 @@ https://hls.mskycdn.online/tv/bbcearth/index.m3u8
 
 #EXTINF:0 tvg-id="animal" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/29px2Qy.png",ANIMAL PLANET
 https://hls.mskycdn.online/tv/animalhd/index.m3u8
+
 
 
