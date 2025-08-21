@@ -259,3 +259,12 @@ https://live.fptplay53.net/epzsd1/quangbinh_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-id="hue" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/29px2Qy.png",TRT _ TH Thừa Thiên Huế
 https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="hue" group-title="NN" tvg-logo="https://i.imgur.com/29px2Qy.png",CARTOON NETWORK
+https://hls.mskycdn.online/tv/cartoonhd/index.m3u8
+
+#EXTINF:0 tvg-id="hue" group-title="NN" tvg-logo="https://i.imgur.com/29px2Qy.png",BBC EARTH
+https://hls.mskycdn.online/tv/bbcearth/index.m3u8
+
+#EXTINF:0 tvg-id="hue" group-title="NN" tvg-logo="https://i.imgur.com/29px2Qy.png",ANIMAL PLANET
+https://hls.mskycdn.online/tv/animalhd/index.m3u8
