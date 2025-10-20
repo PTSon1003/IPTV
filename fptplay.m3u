@@ -100,9 +100,6 @@ https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab HD" tvg-logo="https://i.imgur.com/7GSKm46.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=197&time=${start}&offset=${duration}",ON Vie Giải Trí
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
 https://freem3u.xyz/api/live/play.m3u8?vid=180
-#EXTINF:-1 tvg-id="onphimviet" group-title="VTVcab HD" tvg-logo="https://i.imgur.com/MPNlpzb.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=198&time=${start}&offset=${duration}",ON Phim Việt 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
-https://freem3u.xyz/api/live/play.m3u8?vid=175
 #EXTINF:-1 tvg-id="onsports" group-title="VTVcab HD" tvg-logo="https://img.lichphatsong.xyz/logo/on-sports.jpg",ON Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://truyenhinh.click/
@@ -159,8 +156,50 @@ https://freem3u.xyz/api/live/play.m3u8?vid=188
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
 https://freem3u.xyz/api/live/play.m3u8?vid=169
 #--*.*--SCTV--*.*--#
-#EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/SCTV6.jpg" , SCTV6 HD
-https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://i.imgur.com/imhFxSG.png",SCTV1 HD
+https://liveh12.seenow.vn/hls/SCTV1/03.m3u8
+#EXTINF:0 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://i.imgur.com/UpBZOaH.png",SCTV2 HD
+https://liveh12.seenow.vn/hls/SCTV2/03.m3u8
+#EXTINF:0 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://i.imgur.com/wZrGAtH.png",SCTV3 HD
+https://liveh12.seenow.vn/hls/SCTV3/03.m3u8
+#EXTINF:0 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="https://i.imgur.com/ntSnAMJ.png",SCTV4 HD
+https://liveh12.seenow.vn/hls/SCTV4/03.m3u8
+#EXTINF:0 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6 HD
+https://liveh12.seenow.vn/hls/SCTV6/03.m3u8
+#EXTINF:0 tvg-id="sctv7hd" group-title="SCTV" tvg-logo="https://i.imgur.com/EdjXUUb.png",SCTV7 HD
+https://liveh12.seenow.vn/hls/SCTV7/03.m3u8
+#EXTINF:0 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="https://i.imgur.com/NULoCoA.png",SCTV8 HD
+https://liveh12.seenow.vn/hls/SCTV8/03.m3u8
+#EXTINF:0 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://i.imgur.com/6dvyvea.png",SCTV9 HD
+https://liveh12.seenow.vn/hls/SCTV9/03.m3u8
+#EXTINF:0 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://i.imgur.com/AP2o4bW.png",SCTV11 HD 
+https://liveh12.seenow.vn/hls/SCTV11/03.m3u8
+#EXTINF:0 tvg-id="sctv12hd" group-title="SCTV" tvg-logo="https://i.imgur.com/5nrSZd8.png",SCTV12 HD
+https://liveh12.seenow.vn/hls/SCTV12/03.m3u8
+#EXTINF:0 tvg-id="sctv13hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/45/SCTV13_logo.png/revision/latest/scale-to-width-down/1000?cb=20211211011126&path-prefix=vi",SCTV13 HD
+https://liveh12.seenow.vn/hls/SCTV13/03.m3u8
+#EXTINF:0 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://i.imgur.com/1yNMyEh.png",SCTV14 HD
+https://liveh12.seenow.vn/hls/SCTV14/03.m3u8
+#EXTINF:0 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="https://i.imgur.com/EPwjrlB.png",SCTV15 HD
+https://liveh12.seenow.vn/hls/SCTV15/03.m3u8
+#EXTINF:0 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://i.imgur.com/b4ZROQG.png",SCTV16 HD 
+https://liveh12.seenow.vn/hls/SCTV16/03.m3u8
+#EXTINF:0 tvg-id="sctv17hd" group-title="SCTV" tvg-logo="https://i.imgur.com/Ghjy4HY.png",SCTV17 HD
+https://liveh12.seenow.vn/hls/SCTV17/03.m3u8
+#EXTINF:0 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://i.imgur.com/k2Eg4T4.png",SCTV18 HD
+https://liveh12.seenow.vn/hls/SCTV18/03.m3u8
+#EXTINF:0 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="https://i.imgur.com/s4vfvNb.png",SCTV19 HD
+https://liveh12.seenow.vn/hls/SCTV19/03.m3u8
+#EXTINF:0 tvg-id="sctv20hd" group-title="SCTV" tvg-logo="https://i.imgur.com/zwfqboB.png",SCTV20 HD
+https://liveh12.seenow.vn/hls/SCTV20/03.m3u8
+#EXTINF:0 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://i.imgur.com/aHKybQW.png",SCTV21 HD
+https://liveh12.seenow.vn/hls/SCTV21/03.m3u8
+#EXTINF:0 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://i.imgur.com/O0HdUpB.png",SCTV22 HD
+https://liveh12.seenow.vn/hls/SCTV22/03.m3u8
+#EXTINF:0 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://i.imgur.com/VzZYa4n.png",SCTV HD Phim Tổng Hợp
+https://liveh12.seenow.vn/hls/SCTVPHIM/03.m3u8
+#EXTINF:-1 tvg-id="sctv4k" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV4K.webp", SCTV4K 
+https://z215ymcm4tliv.vcdn.cloud/s97/hls/sctv4k/index.m3u8
 
 #-*--Địa phương-*--#
 #EXTINF:0 tvg-id="laocai" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/QAVSUBu.png",THLC _ TH Lào Cai
@@ -331,6 +370,7 @@ https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="outdoorhd" tvg-name="Outdoor Channel" tvg-logo="https://img.lichphatsong.xyz/logo/outdoorhd.jpg" group-title="Quốc Tế",Outdoor Channel
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
+
 
 
 
