@@ -312,3 +312,7 @@ https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="cna" group-title="Quốc Tế" tvg-logo="",CNA
 https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 xui-id="126" tvg-id="animalhd" tvg-name="Animal Planet" tvg-logo="http://aismile.dpdns.org:2052/mg9e4VnU5MiobcDarwnBsf30G1p_8Gjeqn4hucFTADw.png" group-title="Quốc Tế",Animal Planet
+http://aismile.dpdns.org/play/t4RB-hMURkJ1o2SG4S8Kfh6BlXsWesEgx41AzdL9rp0/ts
+
