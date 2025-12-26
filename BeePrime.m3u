@@ -9,12 +9,12 @@ https://livevlisctcdnw.seenow.vn/mean/ANNINHTV/manifest.mpd
 #https://cdnet-cdn-01.onsports.vn/mean/ANNINHTV/index.m3u8
 
 #EXTINF:-1 tvg-id="qpvnhd" group-title="Thiết yếu" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/ThietYeu/QuocPhongVn.png",QPVN HD (VTV Prime)
-#https://livevlisctcdnw.seenow.vn/mean/QPTV/manifest.mpd
+https://livevlisctcdnw.seenow.vn/mean/QPTV/manifest.mpd
 
 #EXTINF:-1 tvg-id="qpvnhd" group-title="Thiết yếu" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/ThietYeu/QuocPhongVn.png",QPVN HD (On Plus)
-https://cdnet-cdn-01.onsports.vn/mean/QPTV/index.m3u8
+#https://cdnet-cdn-01.onsports.vn/mean/QPTV/index.m3u8
 
-#EXTINF:-1 tvg-id="anvienhd" tvg-group-logo="" group-title="Thiết yếu" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/ThietYeu/BTV9.png",BTV9 HD | An Viên TV
+#EXTINF:-1 tvg-id="anvienhd" group-title="Thiết yếu" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/ThietYeu/BTV9.png",BTV9 HD | An Viên TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -153,85 +153,6 @@ https://liveh34.vtvprime.vn/hls/HTVPHUNU/03.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3eb2c6cc1acb42818f9113c2ea7bbec1:df44b60a983f474980e442239b692c57
 https://livevlisctcdnw.seenow.vn/livesnv2/HTVC_THUAN_VIET_HD/manifest.mpd
-
-# --- Nhóm THVL ---
-
-#EXTINF:-1 tvg-id="vinhlong1hd" tvg-group-logo="https://bom.so/pvcfba" group-title="THVL" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THVL1_VinhLong.png",THVL1 HD | Vĩnh Long
-https://liveh12.vtvprime.vn/hls/VINHLONG1/03.m3u8
-
-#EXTINF:-1 tvg-id="vinhlong2hd" group-title="THVL" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THVL2_VinhLong.png",THVL2 HD | Vĩnh Long
-https://liveh12.vtvprime.vn/hls/VINHLONG2/03.m3u8
-
-#EXTINF:-1 tvg-id="vinhlong3hd" group-title="THVL" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THVL3_VinhLong.png",THVL3 HD | Vĩnh Long
-https://liveh34.vtvprime.vn/hls/VINHLONG3/03.m3u8
-
-#EXTINF:-1 tvg-id="vinhlong4hd" group-title="THVL" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THVL4_VinhLong.png",THVL4 HD | Vĩnh Long
-https://liveh34.vtvprime.vn/hls/VINHLONG4/03.m3u8
-
-# --- Nhóm Trong nước ---
-
-#EXTINF:-1 tvg-id="angiang2" group-title="Trong nước" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/ATV2_AnGiang.png",ATV2 HD | An Giang
-https://liveh34.vtvprime.vn/hls/ANGIANGTV/03.m3u8
-
-#EXTINF:-1 tvg-id="hanoi1" group-title="Trong nước" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/H1_HaNoi.png",H1 HD | Hà Nội
-https://liveh34.vtvprime.vn/hls/HANOI1TV/03.m3u8
-
-#EXTINF:-1 tvg-id="haiphong3" group-title="Trong nước" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THP3_HaiPhong.png",THP3 HD | Hải Phòng
-https://liveh34.vtvprime.vn/hls/HAIDUONGTV/03.m3u8
-
-#EXTINF:-1 tvg-id="binhduong1" group-title="Trong nước" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/BTV1_BinhDuong.png",BTV1 HD | Bình Dương
-https://liveh34.vtvprime.vn/hls/BINHDUONGTV/01.m3u8
-
-#EXTINF:-1 tvg-id="vungtau" group-title="Trong nước" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/BRT_BaRiaVungTau.png",BRT HD | TP.HCM
-https://liveh34.vtvprime.vn/hls/VUNGTAUTV/03.m3u8
-
-#EXTINF:-1 tvg-id="bacninh" group-title="Trong nước" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/BTV_BacNinh.png",BTV HD | Bắc Ninh
-https://liveh34.vtvprime.vn/hls/BACGIANGTV/03.m3u8
-
-#EXTINF:-1 tvg-id="dongthap1" group-title="Trong nước" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THDT1_DongThap.png",THĐT1 HD | Đồng Tháp
-https://liveh34.vtvprime.vn/hls/DONGTHAPTV/03.m3u8
-
-#EXTINF:-1 tvg-id="khanhhoa" group-title="Trong nước" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/KTV_KhanhHoa.png",KTV HD | Khánh Hòa
-https://liveh12.vtvprime.vn/hls/KHANHHOATV/03.m3u8
-
-#EXTINF:-1 tvg-id="quangninh1" group-title="Trong nước" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/QTV1_QuangNinh.png",QTV1 HD | Quảng Ninh
-https://liveh12.vtvprime.vn/hls/QUANGNINHTV/03.m3u8
-
-#EXTINF:-1 tvg-id="quangninh3" group-title="Trong nước" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/QTV3_QuangNinh.png",QTV3 HD | Quảng Ninh
-https://liveh34.vtvprime.vn/hls/QUANGNINH3/03.m3u8
-
-#EXTINF:-1 tvg-id="thaibinh" group-title="Trong nước" tvg-logo="https://i.imgur.com/fP7B6A4.png",TBTV HD | Thái Bình
-https://liveh34.vtvprime.vn/hls/THAIBINHTV/03.m3u8
-
-#EXTINF:-1 tvg-id="thainguyen" group-title="Trong nước" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/TN_ThaiNguyen.png",TN HD | Thái Nguyên
-https://liveh34.vtvprime.vn/hls/THAINGUYENTV/03.m3u8
-
-#EXTINF:-1 tvg-id="tayninh2" group-title="Trong nước" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/TTV2_TayNinh.png",TTV2 HD | Tây Ninh
-https://liveh34.vtvprime.vn/hls/TAYNINHTV/03.m3u8
-
-#EXTINF:-1 tvg-id="hue" group-title="Trong nước" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/HueTv.png",HueTV HD | Huế
-https://liveh12.vtvprime.vn/hls/HUE/03.m3u8
-
-#EXTINF:-1 tvg-id="hungyen" group-title="Trong nước" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/HY_HungYen.png",HY HD | Hưng Yên
-https://liveh12.vtvprime.vn/hls/HUNGYENTV/03.m3u8
-
-#EXTINF:-1 tvg-id="hatinh" group-title="Trong nước" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/BHTTV_HaTinh.png",BHTTV HD | Hà Tĩnh
-https://liveh34.vtvprime.vn/hls/HATINH/03.m3u8
-
-#EXTINF:-1 tvg-id="ninhbinh" group-title="Trong nước" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/NBTV_NinhBinh.png",NBTV HD | Ninh Bình
-https://liveh34.vtvprime.vn/hls/NINHBINHTV/03.m3u8
-
-#EXTINF:-1 tvg-id="nghean" group-title="Trong nước" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/NTV_NgheAn.png",NTV HD | Nghệ An
-https://liveh12.vtvprime.vn/hls/NGHEANTV/03.m3u8
-
-#EXTINF:-1 tvg-id="phutho" group-title="Trong nước" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/PTV_PhuTho.png",PTV HD | Phú Thọ
-https://liveh34.vtvprime.vn/hls/PHUTHOTV/03.m3u8
-
-#EXTINF:-1 tvg-id="danang1" group-title="Trong nước" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/DNRT1_DaNang.png",ĐNRT1 HD | Đà Nẵng
-https://liveh12.vtvprime.vn/hls/DANANGTV/03.m3u8
-
-#EXTINF:-1 tvg-id="danang2" group-title="Trong nước" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/DNRT2_DaNang.png",ĐNRT2 HD | Đà Nẵng
-https://liveh34.vtvprime.vn/hls/DANANG2/04.m3u8
 
 # --- Nhóm VTVcab ---
 
@@ -514,6 +435,85 @@ https://liveh34.vtvprime.vn/hls/SCTV22/04.m3u8
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTVPTH.png",SCTV Phim Tổng Hợp HD
 https://liveh12.vtvprime.vn/hls/SCTVPHIM/03.m3u8
 
+# --- Nhóm THVL ---
+
+#EXTINF:-1 tvg-id="vinhlong1hd" tvg-group-logo="https://bom.so/pvcfba" group-title="THVL" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THVL1_VinhLong.png",THVL1 HD | Vĩnh Long
+https://liveh12.vtvprime.vn/hls/VINHLONG1/03.m3u8
+
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="THVL" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THVL2_VinhLong.png",THVL2 HD | Vĩnh Long
+https://liveh12.vtvprime.vn/hls/VINHLONG2/03.m3u8
+
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="THVL" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THVL3_VinhLong.png",THVL3 HD | Vĩnh Long
+https://liveh34.vtvprime.vn/hls/VINHLONG3/03.m3u8
+
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="THVL" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THVL4_VinhLong.png",THVL4 HD | Vĩnh Long
+https://liveh34.vtvprime.vn/hls/VINHLONG4/03.m3u8
+
+# --- Nhóm Trong nước ---
+
+#EXTINF:-1 tvg-id="angiang2" group-title="Trong nước" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/ATV2_AnGiang.png",ATV2 HD | An Giang
+https://liveh34.vtvprime.vn/hls/ANGIANGTV/03.m3u8
+
+#EXTINF:-1 tvg-id="hanoi1" group-title="Trong nước" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/H1_HaNoi.png",H1 HD | Hà Nội
+https://liveh34.vtvprime.vn/hls/HANOI1TV/03.m3u8
+
+#EXTINF:-1 tvg-id="haiphong3" group-title="Trong nước" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THP3_HaiPhong.png",THP3 HD | Hải Phòng
+https://liveh34.vtvprime.vn/hls/HAIDUONGTV/03.m3u8
+
+#EXTINF:-1 tvg-id="binhduong1" group-title="Trong nước" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/BTV1_BinhDuong.png",BTV1 HD | Bình Dương
+https://liveh34.vtvprime.vn/hls/BINHDUONGTV/01.m3u8
+
+#EXTINF:-1 tvg-id="vungtau" group-title="Trong nước" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/BRT_BaRiaVungTau.png",BRT HD | TP.HCM
+https://liveh34.vtvprime.vn/hls/VUNGTAUTV/03.m3u8
+
+#EXTINF:-1 tvg-id="bacninh" group-title="Trong nước" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/BTV_BacNinh.png",BTV HD | Bắc Ninh
+https://liveh34.vtvprime.vn/hls/BACGIANGTV/03.m3u8
+
+#EXTINF:-1 tvg-id="dongthap1" group-title="Trong nước" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THDT1_DongThap.png",THĐT1 HD | Đồng Tháp
+https://liveh34.vtvprime.vn/hls/DONGTHAPTV/03.m3u8
+
+#EXTINF:-1 tvg-id="khanhhoa" group-title="Trong nước" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/KTV_KhanhHoa.png",KTV HD | Khánh Hòa
+https://liveh12.vtvprime.vn/hls/KHANHHOATV/03.m3u8
+
+#EXTINF:-1 tvg-id="quangninh1" group-title="Trong nước" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/QTV1_QuangNinh.png",QTV1 HD | Quảng Ninh
+https://liveh12.vtvprime.vn/hls/QUANGNINHTV/03.m3u8
+
+#EXTINF:-1 tvg-id="quangninh3" group-title="Trong nước" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/QTV3_QuangNinh.png",QTV3 HD | Quảng Ninh
+https://liveh34.vtvprime.vn/hls/QUANGNINH3/03.m3u8
+
+#EXTINF:-1 tvg-id="thaibinh" group-title="Trong nước" tvg-logo="https://i.imgur.com/fP7B6A4.png",TBTV HD | Thái Bình
+https://liveh34.vtvprime.vn/hls/THAIBINHTV/03.m3u8
+
+#EXTINF:-1 tvg-id="thainguyen" group-title="Trong nước" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/TN_ThaiNguyen.png",TN HD | Thái Nguyên
+https://liveh34.vtvprime.vn/hls/THAINGUYENTV/03.m3u8
+
+#EXTINF:-1 tvg-id="tayninh2" group-title="Trong nước" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/TTV2_TayNinh.png",TTV2 HD | Tây Ninh
+https://liveh34.vtvprime.vn/hls/TAYNINHTV/03.m3u8
+
+#EXTINF:-1 tvg-id="hue" group-title="Trong nước" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/HueTv.png",HueTV HD | Huế
+https://liveh12.vtvprime.vn/hls/HUE/03.m3u8
+
+#EXTINF:-1 tvg-id="hungyen" group-title="Trong nước" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/HY_HungYen.png",HY HD | Hưng Yên
+https://liveh12.vtvprime.vn/hls/HUNGYENTV/03.m3u8
+
+#EXTINF:-1 tvg-id="hatinh" group-title="Trong nước" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/BHTTV_HaTinh.png",BHTTV HD | Hà Tĩnh
+https://liveh34.vtvprime.vn/hls/HATINH/03.m3u8
+
+#EXTINF:-1 tvg-id="ninhbinh" group-title="Trong nước" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/NBTV_NinhBinh.png",NBTV HD | Ninh Bình
+https://liveh34.vtvprime.vn/hls/NINHBINHTV/03.m3u8
+
+#EXTINF:-1 tvg-id="nghean" group-title="Trong nước" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/NTV_NgheAn.png",NTV HD | Nghệ An
+https://liveh12.vtvprime.vn/hls/NGHEANTV/03.m3u8
+
+#EXTINF:-1 tvg-id="phutho" group-title="Trong nước" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/PTV_PhuTho.png",PTV HD | Phú Thọ
+https://liveh34.vtvprime.vn/hls/PHUTHOTV/03.m3u8
+
+#EXTINF:-1 tvg-id="danang1" group-title="Trong nước" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/DNRT1_DaNang.png",ĐNRT1 HD | Đà Nẵng
+https://liveh12.vtvprime.vn/hls/DANANGTV/03.m3u8
+
+#EXTINF:-1 tvg-id="danang2" group-title="Trong nước" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/DNRT2_DaNang.png",ĐNRT2 HD | Đà Nẵng
+https://liveh34.vtvprime.vn/hls/DANANG2/04.m3u8
+
 # --- Nhóm In The Box ---
 
 #EXTINF:-1 tvg-id="boxmovie1" tvg-group-logo="https://bom.so/jQ5tOC" group-title="In The Box" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/InTheBox/BoxMovie1.png",Box Movie 1 HD
@@ -761,4 +761,5 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/tlc.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NPGQjP4uBe4GAEbUDxSuyQ","kid":"CG0JpAv/OgCqbdTbr5wTsg"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
+
 
