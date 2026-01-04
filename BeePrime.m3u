@@ -178,13 +178,6 @@ https://livevlisctcdnw.seenow.vn/livesnv2/PHIM_VIET/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=dcda1c0511c347f8b89c1821600426ac:dbc1d4d9244f8e7d01d999d4d9f53855
 https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_HD/manifest.mpd
 
-#EXTINF:-1 tvg-id="onsports" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnSports.png",ON Sports HD (On Plus)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
-#https://cdnet-cdn-01.onsports.vn/onplus/THETHAO_HD/manifest.mpd
-
 #EXTINF:-1 tvg-id="onmovies" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnMovies.png",On Movies HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -205,13 +198,6 @@ https://livevlisctcdnw.seenow.vn/livesnv2/E_CHANNEL/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4e619c5b54494762b131f65fc34a885b:676d9f5a28d409d7d601514baa147c9d
 https://livevlisctcdnw.seenow.vn/livesnv2/HAY_TV/manifest.mpd
-
-#EXTINF:-1 tvg-id="onsportsplus" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnSports%2B.png",ON Sports+ HD (On Plus)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
-#https://cdnet-cdn-01.onsports.vn/onplus/HAY_TV/manifest.mpd
 
 #EXTINF:-1 tvg-id="ono2tv" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnO2tv.png",On O2TV HD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -265,13 +251,6 @@ https://livevlisctcdnw.seenow.vn/livesnv2/M_CHANNEL/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=f69bf028397e4ecfafce84abb7c5fe2b:25028aad0e2003b2785cf5196a4e2fa1
 https://livevlisctcdnw.seenow.vn/livesnv2/BONGDA_HD/manifest.mpd
 
-#EXTINF:-1 tvg-id="onfootball" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnFootball.png",ON Football HD (On Plus)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
-#https://cdnet-cdn-01.onsports.vn/onplus/BONGDA_HD/manifest.mpd
-
 #EXTINF:0 tvg-id="ontrending" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnTrendingTv.png",ON TRENDING TV HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -285,13 +264,6 @@ https://livevlisctcdnw.seenow.vn/livesnv2/YEAH1_TV/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cafb6e60c1504dfc858fd3dddc6fd20c:92061ffeb13f47c4d8879316dbc9521d
 https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_TINTUC_HD/manifest.mpd
-
-#EXTINF:-1 tvg-id="onsportsnews" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnSportsNew.png",ON Sports News HD (On Plus)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
-#https://cdnet-cdn-01.onsports.vn/onplus/THETHAO_TINTUC_HD/manifest.mpd
 
 #EXTINF:-1 tvg-id="onviedramas" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnVieDramas.png",ON Vie Dramas HD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -328,13 +300,6 @@ https://livevlisctcdnw.seenow.vn/livesnv2/LIFE_TV/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=5a323b53e0864492b0e04c70d591c564:843584bafaf2736c4fd1b76e1eee74d8
 https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_GOLF_HD/manifest.mpd
 
-#EXTINF:-1 tvg-id="ongolf" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnGolf.png",On Golf HD (On Plus)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
-#https://cdnet-cdn-01.onsports.vn/onplus/THETHAO_GOLF_HD/manifest.mpd
-
 # --- Nhóm SCTV ---
 
 #EXTINF:-1 tvg-id="sctv1hd" tvg-group-logo="https://bom.so/wJ7RFL" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV1.png",SCTV1 HD (Hài)
@@ -364,16 +329,6 @@ https://liveh34.vtvprime.vn/hls/SCTV8/01.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=22a9a9a63d2746df9f90c184c596105a:2d9d24caeaea42f8b44e413fe04f0e5c
 https://livevlisctcdnw.seenow.vn/mean/SCTV9/manifest.mpd
-
-#EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV9.png",SCTV9 HD (Phim Châu Á)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=22a9a9a63d2746df9f90c184c596105a:2d9d24caeaea42f8b44e413fe04f0e5c
-https://livevlisctcdnw.seenow.vn/mean/SCTV9/manifest.mpd
-
-#EXTINF:-1 tvg-id="sctv10hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV10.png",SCTV10 HD (Huyndai Shopping)
-https://liveh34.vtvprime.vn/hls/SCTV10/01.m3u8
 
 #EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV11.png",SCTV11 HD (TV Star)
 https://liveh34.vtvprime.vn/hls/SCTV11/01.m3u8
@@ -460,12 +415,6 @@ https://liveh34.vtvprime.vn/hls/HANOI1TV/03.m3u8
 
 #EXTINF:-1 tvg-id="haiphong3" group-title="Trong nước" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THP3_HaiPhong.png",THP3 HD | Hải Phòng
 https://liveh34.vtvprime.vn/hls/HAIDUONGTV/03.m3u8
-
-#EXTINF:-1 tvg-id="binhduong1" group-title="Trong nước" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/BTV1_BinhDuong.png",BTV1 HD | Bình Dương
-https://liveh34.vtvprime.vn/hls/BINHDUONGTV/01.m3u8
-
-#EXTINF:-1 tvg-id="vungtau" group-title="Trong nước" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/BRT_BaRiaVungTau.png",BRT HD | TP.HCM
-https://liveh34.vtvprime.vn/hls/VUNGTAUTV/03.m3u8
 
 #EXTINF:-1 tvg-id="bacninh" group-title="Trong nước" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/BTV_BacNinh.png",BTV HD | Bắc Ninh
 https://liveh34.vtvprime.vn/hls/BACGIANGTV/03.m3u8
@@ -762,6 +711,7 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/tlc.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NPGQjP4uBe4GAEbUDxSuyQ","kid":"CG0JpAv/OgCqbdTbr5wTsg"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
+
 
 
 
