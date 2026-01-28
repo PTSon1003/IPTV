@@ -166,13 +166,6 @@ https://liveh34.vtvprime.vn/hls/SCTV14/03.m3u8
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/livesnv2/SCTV15HD/manifest.mpd
 
-#EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV15.png",SCTV15 HD (Thể thao) | S Sport 2 (On Plus)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
-#https://cdnet-cdn-01.onsports.vn/onplus/SCTV15HD/manifest.mpd
-
 #EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV16.png",SCTV16 HD (Phim nước ngoài)
 https://liveh34.vtvprime.vn/hls/SCTV16/04.m3u8
 
@@ -182,13 +175,6 @@ https://liveh34.vtvprime.vn/hls/SCTV16/04.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/livesnv2/SCTV17/manifest.mpd
-
-#EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV17.png",SCTV17 HD (Thể thao & Cuộc sống) | S Sport (On Plus)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
-#https://cdnet-cdn-01.onsports.vn/onplus/SCTV17/manifest.mpd
 
 #EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV18.png",SCTV18 HD
 https://liveh34.vtvprime.vn/hls/SCTV18/03.m3u8
@@ -360,6 +346,7 @@ https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="cna" group-title="Quốc Tế" tvg-logo="",CNA
 https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist.m3u8
+
 
 
 
