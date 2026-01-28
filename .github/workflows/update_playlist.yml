@@ -1,0 +1,47 @@
+name: Update FPT Udpxy Playlist
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * 0' # Chạy vào 00:00 UTC Chủ Nhật hàng tuần (07:00 sáng VN)
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Create output directory
+      run: mkdir -p IPTV
+
+    - name: Download, Convert and Push
+      run: |
+        # --- CẤU HÌNH ---
+        SOURCE_URL="https://raw.githubusercontent.com/ntd249/ntdiptv/main/fptudp"
+        OUTPUT_FILE="IPTV/fpt_udpxy.m3u8"
+        UDPXY_PREFIX="http://172.27.1.39:4022/udp/"
+
+        # --- XỬ LÝ ---
+        echo "Đang tải và xử lý..."
+        curl -s "$SOURCE_URL" -o temp_list.m3u
+        sed "s|udp://@|$UDPXY_PREFIX|g" temp_list.m3u > "$OUTPUT_FILE"
+        rm temp_list.m3u
+
+        # --- COMMIT & PUSH ---
+        git config --global user.name "GitHub Action Bot"
+        git config --global user.email "actions@github.com"
+        
+        # Thêm đúng file vừa tạo vào git
+        git add "$OUTPUT_FILE"
+        
+        if git diff --staged --quiet; then
+          echo "Không có thay đổi nào."
+        else
+          git commit -m "Auto update playlist: $(date +'%Y-%m-%d')"
+          git push
+        fi
