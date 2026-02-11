@@ -2,8 +2,6 @@
 
 #Links stream live TV được sưu tầm trên mạng, chỉ dùng cho mục đích cá nhân và không chịu trách nhiệm nếu ai tự ý sử dụng với mục đích khác.
 
-https://vips-livecdn.fptplay.net/fnxhd2/f-channel1_vhls.smil/chunklist_b5000000.m3u8
-
 # Thiết yếu
 #EXTINF:-1 group-title="Thiết yếu" tvg-logo="https://i.imgur.com/QztqOe0.png",ANTV HD
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8
@@ -328,6 +326,7 @@ https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="cna" group-title="Quốc Tế" tvg-logo="",CNA
 https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist.m3u8
+
 
 
 
