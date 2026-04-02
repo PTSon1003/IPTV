@@ -22,7 +22,7 @@ jobs:
     - name: Download, Convert and Push
       run: |
         # --- CẤU HÌNH ---
-        SOURCE_URL="https://raw.githubusercontent.com/PTSon1003/IPTV/refs/heads/main/"
+        SOURCE_URL="https://vietanhtv.id.vn/tv/"
         OUTPUT_FILE="IPTV/fptplay_ss.m3u8"
         UDPXY_PREFIX="http://172.27.1.39:4022/udp/"
 
