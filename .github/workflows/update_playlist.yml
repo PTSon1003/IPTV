@@ -14,15 +14,11 @@ jobs:
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v4
-
-    - name: Create output directory
-      run: mkdir -p IPTV
-
+      uses: actions/PTSon1003
     - name: Download, Convert and Push
       run: |
         # --- CẤU HÌNH ---
-        SOURCE_URL="https://vietanhtv.id.vn/tv/"
+        SOURCE_URL="https://vietanhtv.id.vn/tv/index.php"
         OUTPUT_FILE="IPTV/fptplay_ss.m3u8"
 
         # --- XỬ LÝ ---
