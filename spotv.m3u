@@ -1,8 +1,6 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="spotv" group-title="SPOTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/WarnerTV.png", SPOTV1
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0 PCRTV_App_Android_v1
 http://hoatv001.ddns.net/iptv/admin.php?stream=6078bf597565b08a245d7bf71534468f&token=653c50b221f6cd9a096ddbdacb741944
 
 #EXTINF:-1 tvg-id="spotv" group-title="SPOTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/WarnerTV.png", SPOTV2
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0 PCRTV_App_Android_v1
 http://hoatv001.ddns.net/iptv/admin.php?stream=c7f336d850fb616c33b16f61937f4472&token=653c50b221f6cd9a096ddbdacb741944
