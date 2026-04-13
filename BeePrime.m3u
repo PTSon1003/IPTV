@@ -105,7 +105,7 @@ https://liveh12.vtvprime.vn/hls/HTV3/03.m3u8
 #EXTINF:-1 tvg-id="htvkey" group-title="HTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/HTV/HTVKeys.png", HTV Keys HD
 https://liveh12.vtvprime.vn/hls/HTVKey/03.m3u8
 
-#EXTINF:-1 tvg-id="anvienhd" group-title="Thiết yếu" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/ThietYeu/BTV9.png",HTV5 HD | An Viên TV
+#EXTINF:-1 tvg-id="htv5hd" group-title="HTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/ThietYeu/BTV9.png",HTV5 HD | An Viên TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
