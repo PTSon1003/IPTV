@@ -38,7 +38,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/in
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesportsplus_hd1/default/index.mpd
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesportsplus_hd/default/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHq5HhGVJPZ7TWyeX4QX28DpEOebF-QmbVbt6aiJNGI6B2M9dH5Vje_SBwbONoWRHlhnA9o434pxXr6S7PDNc9xcjhY3QtlAUjiWV0KZXm_9qWQdlDNFdbtvAgo7IbOvDpzDHsItXTjbE_kG9w_uo0DybMFH_mIzeIQBUrnjUiSdBq_gDA7-XwkWIJlGuc/s700/MOVIES%20NOW%20HD.png" group-title="Movies", Movies Now
 #KODIPROP:inputstream.adaptive.license_type=clearkey
