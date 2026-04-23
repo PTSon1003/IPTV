@@ -1,4 +1,19 @@
 #EXTM3U 
+
+#EXTINF:-1 tvg-id="" group-title="KOREA" tvg-logo="https://flagicons.lipis.dev/flags/4x3/kr.svg",SPORTS
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://livesport.io.vn/ott/license.php
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd
+
+#EXTINF:-1 tvg-id="" group-title="KOREA" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-spotv-2-southeast-asia-2847.png",SPOTV2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://livesport.io.vn/ott/license.php
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
+
 #EXTINF:-1 , SPOTV1
 http://hoatv001.ddns.net/iptv/admin.php?stream=6078bf597565b08a245d7bf71534468f&token=653c50b221f6cd9a096ddbdacb741944
 
