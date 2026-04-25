@@ -824,6 +824,19 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.m
 #KODIPROP:inputstream.adaptive.license_key=http://livesport.io.vn/ott/license.php
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
 
+#EXTINF:-1 tvg-id="premier-sports" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj58UJbbGzXcG6aI64tEGbWLpTz67TMBSaNFzSU75dNSbdPXHzxmviA5EA_FkY54v6tgnhHJoMQAvPtcWgQdrY7ZQ226DgZOJHqwDVLq-XzwlNRrMt9T5Ua0S1bXswron-97fhePqc3StB0fQs_prVe-d3wJL8QmdhJQdDd4HOUtUV747QFM5yILNHtnZb/s700/PREMIER%20SPORTS.png" group-title="Sports", Premier Sports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b8b595299fdf41c1a3481fddeb0b55e4:cd2b4ad0eb286239a4a022e6ca5fd007
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_ps_hd1/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2-e6JN1iocQj8_f6bi_xX5bXN3OKNTjGoiaJzudwDVwhHgkaq-7-uKC2HSCvjVkEW1hXi6eVgtPfDr5P5lVY3STpYpulKFNac8PaU00peSY69hhOvN7gF3zYIsL6VYEMECzi9aysAm7JOqJ8lfZIKKuCs_9me7VCU9H1VGI19BNCQoRz3T0zJK9tvFwPP/s700/ONE%20SPORTS%20HD.png" group-title="Sports", ONE Sports
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd
+#https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_onesports_hd.mpd
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/index.mpd
+
 #EXTINF:-1 tvg-id="tvb-vietnam" group-title="Rạp Phim" tvg-logo="https://freem3u.xyz/static/images/tvb/tvbv.png", TVB Việt Nam
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/playlist.m3u8?_xtfc=6864eb7721a75224098f21dba116e648&_xt=1772525259
