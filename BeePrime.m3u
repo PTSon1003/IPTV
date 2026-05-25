@@ -65,7 +65,8 @@ https://livevlisctcdnw.seenow.vn/livesnv2/VTV8_HD/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=93857193760b4aa882db3880cf07ecaf:0241398b0816b126f4e5b715f993b6c6
-https://livevlisctcdnw.seenow.vn/livesnv2/VTV9_HD/manifest.mpd
+#https://livevlisctcdnw.seenow.vn/livesnv2/VTV9_HD/manifest.mpd
+https://livesct.vtvprime.vn/livesnv2/VTV9_HD/manifest.mpd
 
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTV/VTV5%20T%C3%A2y%20Nam%20B%E1%BB%99.png",VTV5 Tây Nam Bộ HD
 https://liveh12.vtvprime.vn/hls/VTV5_TNB/index.m3u8
