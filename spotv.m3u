@@ -15,9 +15,11 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.m
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
 
 #EXTINF:-1 , SPOTV1
+#EXTVLCOPT:http-user-agent=PCRTV_App_Android_v1
 http://hoatv001.ddns.net/iptv/admin.php?stream=6078bf597565b08a245d7bf71534468f&token=653c50b221f6cd9a096ddbdacb741944
 
 #EXTINF:-1 , SPOTV2
+#EXTVLCOPT:http-user-agent=PCRTV_App_Android_v1
 http://hoatv001.ddns.net/iptv/admin.php?stream=c7f336d850fb616c33b16f61937f4472&token=653c50b221f6cd9a096ddbdacb741944
 
 #EXTINF:-1 tvg-id="premier-sports" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj58UJbbGzXcG6aI64tEGbWLpTz67TMBSaNFzSU75dNSbdPXHzxmviA5EA_FkY54v6tgnhHJoMQAvPtcWgQdrY7ZQ226DgZOJHqwDVLq-XzwlNRrMt9T5Ua0S1bXswron-97fhePqc3StB0fQs_prVe-d3wJL8QmdhJQdDd4HOUtUV747QFM5yILNHtnZb/s700/PREMIER%20SPORTS.png" group-title="Sports", Premier Sports
