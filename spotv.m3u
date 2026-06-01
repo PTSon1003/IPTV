@@ -27,7 +27,7 @@ http://hoatv001.ddns.net/iptv/admin.php?stream=c7f336d850fb616c33b16f61937f4472&
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vAHtDFnthFr4ul_t9Jds-A","k":"-KkG7DwPIHgJT6K0tPXb7A"},{"kty":"oct","kid":"BEXtDFnthFr4ul_t9Jds-A","k":"XluxL5V_7pi2b7jbeXis_g"},{"kty":"oct","kid":"EUkxPVnthFr4ul_t9Jds-A","k":"xi8LrTa48QQdTl3pK-nteg"},{"kty":"oct","kid":"_VYxVajthFr4ul_t9Jds-A","k":"oV6_vLQo1--oHA1QGdLTog"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"hFoZZdvN3oUWC9qKEQFmeQ","kid":"D9bWH9QnQ8Kf5ixuStOhZQ"}],"type":"temporary"}"
 https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/spotv.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-id="" group-title="MYTV-SPOTV",SPOTV2
