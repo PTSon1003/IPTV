@@ -129,13 +129,15 @@ https://livevlisctcdnw.seenow.vn/mean/HTV_THETHAO/manifest.mpd
 https://liveh12.vtvprime.vn/hls/HTVCCANHAC/04.m3u8
 
 #EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="HTVC" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/HTVC/HTVCGiaDinh.png", HTVC Gia đình HD
-https://liveh34.vtvprime.vn/hls/HTVGIADINH/03.m3u8
+#https://liveh34.vtvprime.vn/hls/HTVGIADINH/03.m3u8
+https://livebytatm.vtvprime.vn/live/data8/HTVGIADINH/Live_DASHDRM/HTVGIADINH.mpd
 
 #EXTINF:-1 tvg-id="htvcdulichhd" group-title="HTVC" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/HTVC/HTVCDuLichVaCuocSong.png", HTVC Du lịch Cuộc sống HD
 https://liveh12.vtvprime.vn/hls/HTVCDLCS/03.m3u8
 
 #EXTINF:-1 tvg-id="htvcphunuhd" group-title="HTVC" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/HTVC/HTVCPhuNu.png", HTVC Phụ nữ HD
-https://liveh34.vtvprime.vn/hls/HTVPHUNU/03.m3u8
+#https://liveh34.vtvprime.vn/hls/HTVPHUNU/03.m3u8
+https://livebytatm.vtvprime.vn/live/data8/HTVPHUNU/Live_DASHDRM/HTVPHUNU.mpd
 
 #EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTVC" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/HTVC/HTVCThuanViet.png", HTVC Thuần Việt HD
 #KODIPROP:inputstream=inputstream.adaptive
