@@ -23,7 +23,7 @@ http://hoatv001.ddns.net/iptv/admin.php?stream=6078bf597565b08a245d7bf71534468f&
 http://hoatv001.ddns.net/iptv/admin.php?stream=c7f336d850fb616c33b16f61937f4472&token=653c50b221f6cd9a096ddbdacb741944
 
 #EXTINF:-1 tvg-id="" tvg-id="" group-title="MYTV-SPOTV",SPORTS
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
