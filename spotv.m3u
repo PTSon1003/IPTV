@@ -35,5 +35,5 @@ https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/spotv.smil/manifest.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0cae8e99dc26179df89a2a8e900e8656":"400f96cdbc046b39caf33dfc4be72279
+#KODIPROP:inputstream.adaptive.license_key=0cae8e99dc26179df89a2a8e900e8656:400f96cdbc046b39caf33dfc4be72279,54f28e99dc26179df89a2a8e900e8656:e979023ad96ae981f4320deb47f4b2bd,61f6d2cadc26179df89a2a8e900e8656:3c8cce671ab8895ea3b3f3bf706fc6a8,4d03d2e22b26179df89a2a8e900e8656:020aae1808b6b231c97745d5e11c45b5
 https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/spotv2.smil/manifest.mpd
