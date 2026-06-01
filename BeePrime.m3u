@@ -49,6 +49,13 @@ https://livesct.vtvprime.vn/livesnv2/VTV9_HD/manifest.mpd
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv6hd.jpg" group-title="VTV" , VTV 10
 https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist_b4200000.m3u8
 
+#EXTINF:-1 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/ThietYeu/VietnamToday.png",Vietnam Today HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9
+https://livesct.vtvprime.vn/mean/VIETNAMTODAY/manifest.mpd
+
 # --- Nhóm HTV/HTVC ---
 
 #EXTINF:-1 tvg-id="htv1" tvg-group-logo="https://bom.so/uJvwTF" group-title="HTV/HTVC" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/HTV/HTV1.png",HTV1 HD
