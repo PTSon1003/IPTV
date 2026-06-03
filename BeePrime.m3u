@@ -104,21 +104,13 @@ https://livevlisctcdnw.seenow.vn/mean/HTV_THETHAO/manifest.mpd
 https://liveh12.vtvprime.vn/hls/HTVCCANHAC/04.m3u8
 
 #EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="HTV/HTVC" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/HTVC/HTVCGiaDinh.png", HTVC Gia đình HD
-#EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTV/HTVC" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/HTVC/HTVCThuanViet.png", HTVC Thuần Việt HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7b4db62fb5424a6eb2908842a8292775:e37c493320374e4aa42679bffb85c742
-https://livesct.vtvprime.vn/mean/VTV1_HD/manifest.mpd
-#https://liveh34.vtvprime.vn/hls/HTVGIADINH/03.m3u8
-#https://livebytatm.vtvprime.vn/live/data8/HTVGIADINH/Live_DASHDRM/HTVGIADINH.mpd
+https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="htvcdulichhd" group-title="HTV/HTVC" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/HTVC/HTVCDuLichVaCuocSong.png", HTVC Du lịch Cuộc sống HD
 https://liveh12.vtvprime.vn/hls/HTVCDLCS/03.m3u8
 
 #EXTINF:-1 tvg-id="htvcphunuhd" group-title="HTV/HTVC" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/HTVC/HTVCPhuNu.png", HTVC Phụ nữ HD
-#https://liveh34.vtvprime.vn/hls/HTVPHUNU/03.m3u8
-https://livebytatm.vtvprime.vn/live/data8/HTVPHUNU/Live_DASHDRM/HTVPHUNU.mpd
+https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTV/HTVC" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/HTVC/HTVCThuanViet.png", HTVC Thuần Việt HD
 #KODIPROP:inputstream=inputstream.adaptive
