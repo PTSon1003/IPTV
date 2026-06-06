@@ -27,7 +27,7 @@ http://hoatv001.ddns.net/iptv/admin.php?stream=c7f336d850fb616c33b16f61937f4472&
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vAHtDFnthFr4ul_t9Jds-A","k":"-KkG7DwPIHgJT6K0tPXb7A"},{"kty":"oct","kid":"BEXtDFnthFr4ul_t9Jds-A","k":"XluxL5V_7pi2b7jbeXis_g"},{"kty":"oct","kid":"EUkxPVnthFr4ul_t9Jds-A","k":"xi8LrTa48QQdTl3pK-nteg"},{"kty":"oct","kid":"_VYxVajthFr4ul_t9Jds-A","k":"oV6_vLQo1--oHA1QGdLTog"}],"type":"temporary"}
 https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/spotv.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-id="" group-title="MYTV-SPOTV",SPOTV2
@@ -35,5 +35,5 @@ https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/spotv.smil/manifest.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0cae8e99dc26179df89a2a8e900e8656:400f96cdbc046b39caf33dfc4be72279,54f28e99dc26179df89a2a8e900e8656:e979023ad96ae981f4320deb47f4b2bd,61f6d2cadc26179df89a2a8e900e8656:3c8cce671ab8895ea3b3f3bf706fc6a8,4d03d2e22b26179df89a2a8e900e8656:020aae1808b6b231c97745d5e11c45b5
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"DK6OmdwmF534miqOkA6GVg","k":"QA-WzbwEaznK8z38S-cieQ"},{"kty":"oct","kid":"VPKOmdwmF534miqOkA6GVg","k":"6XkCOtlq6YH0Mg3rR_SyvQ"},{"kty":"oct","kid":"YfbSytwmF534miqOkA6GVg","k":"PIzOZxq4iV6js_O_cG_GqA"},{"kty":"oct","kid":"TQPS4ismF534miqOkA6GVg","k":"AgquGAi2sjHJd0XV4RxFtQ"}],"type":"temporary"}
 https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/spotv2.smil/manifest.mpd
