@@ -129,7 +129,8 @@ https://freem3u.xyz/api/live/play.m3u8?vid=188
 
 #EXTINF:-1 tvg-id="sctv1hd" tvg-group-logo="https://bom.so/wJ7RFL" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV1.png",SCTV1 HD (Hài)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv1-hd-7f2aafec
+#https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv1-hd-7f2aafec
+https://e8.endpoint.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/2/QJMkuPJOU2mj8hg0sMTFtg/1781024400/LA4FE/live/hls/sctv3/index.m3u8
 
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV2.png",SCTV2 HD | TODAY TV
 https://sgclient.duckdns.org/source/tv360.m3u8?id=201
