@@ -863,6 +863,11 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9902
 #EXTINF:-1 group-title="Rạp Phim" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/09/08/1775697767861/9a6dc88794cf_640_360.png", 360 Phim Âu Mỹ
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9903
 
+# --- SỰ KIỆN FPTPLAY ---
+
+#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/10/nhat-ky-fifa-world-cup-2026-artboardnhat-ky-fifa-world-cup-2026-slide-thumb_1781062302683.jpg", Sự Kiện 2
+https://live.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
+
 # --- SỰ KIỆN TV360 ---
 
 #EXTINF:-1 tvg-id="tv360plus1" group-title="Sự Kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/22/1776266760359/ba1ca843cd06_480_270.png", TV360+1
@@ -932,10 +937,11 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9957
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9958
 
 #EXTINF:-1 tvg-id="tv360plus12" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2026/03/05/10/1772681417916/2433e49579ab_640_360.png", TV360+12
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://hoiquan.dpdns.org/AutoKey/
+#KODIPROP:inputstream.adaptive.license_key=29b3e7c5de895bfa8850f16dad16e378:72a9e1be1d94ad66207f1ac61bcf7681
+#license_key=https://hoiquan.dpdns.org/AutoKey/
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=10001
 
 # --- SỰ KIỆN VTVPRIME ---
@@ -1009,7 +1015,6 @@ https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT9/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT10/manifest.mpd
-
 
 #EXTINF:-1 group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/17/17/175810574912/a5f8181388ab_640_360.png", TV360 Promo
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9904
