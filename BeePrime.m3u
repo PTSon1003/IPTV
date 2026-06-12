@@ -871,10 +871,33 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/in
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/playlist.m3u8?_xtfc=6864eb7721a75224098f21dba116e648&_xt=1772525259
 
+# --- RẠP PHIM 360 ---
+
 #EXTINF:-1 group-title="Rạp Phim" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/07/15/1775549899305/f54a93a767c5_640_360.png", 360 Phim Việt
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9902
 #EXTINF:-1 group-title="Rạp Phim" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/09/08/1775697767861/9a6dc88794cf_640_360.png", 360 Phim Âu Mỹ
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9903
+#EXTINF:-1 group-title="Rạp Phim" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/09/08/1775697736867/3854900b7263_640_360.png", 360 Phim Hoa Ngữ
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=10008
+#EXTINF:-1 group-title="Rạp Phim" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/07/15/1775549978212/fcfc9c6d7919_640_360.png", 360 Phim Hoạt Hình
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9934
+#EXTINF:-1 group-title="Rạp Phim" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/08/10/1775617851169/1f38a5af77c1_640_360.png", 360 Phim Hành động Châu Á
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=10009
+#EXTINF:-1 group-title="Rạp Phim" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/09/21/1775744591740/79928f9b003f_640_360.png", 360 Phim K-Dramma
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=10010
+#EXTINF:-1 group-title="Rạp Phim" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/13/13/1776063183880/03439dc9da19_640_360.png", 360 Phim Hài-tình cảm
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=10011
+#EXTINF:-1 group-title="Rạp Phim" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/13/13/1776063200976/6ced2ef539a4_640_360.png", 360 Phim Kinh điển
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=10012
+#EXTINF:-1 group-title="Rạp Phim" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/13/13/1776063223569/462daff06d9d_640_360.png", 360 ANIME
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=10013
+
+# --- KHOẢNH KHẮC THỂ THAO 360 ---
+#EXTINF:-1 group-title="Khoảnh khắc thể thao" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/22/177626841934/e289a43bd190_640_360.png", 360 C1 CHÂU ÂU
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=10014
+#EXTINF:-1 group-title="Khoảnh khắc thể thao" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/16/00/1776274695415/4b2703dbb4c4_640_360.png", 360 THỂ THAO CHÂU Á
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=10017
+
 
 # --- SỰ KIỆN FPTPLAY ---
 
