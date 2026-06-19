@@ -99,35 +99,64 @@ https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="htvcplushd" group-title="HTV/HTVC" tvg-logo="https://img.lichphatsong.xyz/logo/htvcplushd.jpg" ,HTVC PLUS
 https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist_b5000000.m3u8
+
 #--*.*--VTVCad--*.*--#
+
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí 
-https://freem3u.xyz/api/live/play.m3u8?vid=180
+#https://freem3u.xyz/api/live/play.m3u8?vid=180
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=180
+
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies 
-https://freem3u.xyz/api/live/play.m3u8?vid=181
+#https://freem3u.xyz/api/live/play.m3u8?vid=181
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=181
+
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/87JEXEQ.png",ON E Channel 
-https://freem3u.xyz/api/live/play.m3u8?vid=182
+#https://freem3u.xyz/api/live/play.m3u8?vid=182
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=182
+
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/nqwVkmM.png",ON O2TV
-https://freem3u.xyz/api/live/play.m3u8?vid=136
+#https://freem3u.xyz/api/live/play.m3u8?vid=136
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=136
+
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/YFmPo7l.png",ON BiBi
-https://freem3u.xyz/api/live/play.m3u8?vid=178
+#https://freem3u.xyz/api/live/play.m3u8?vid=178
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=178
+
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/jp57P0v.png",ON Info TV
-https://freem3u.xyz/api/live/play.m3u8?vid=189
+#https://freem3u.xyz/api/live/play.m3u8?vid=189
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=189
+
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/6f9ngwY.png",ON Cine
-https://freem3u.xyz/api/live/play.m3u8?vid=176
+#https://freem3u.xyz/api/live/play.m3u8?vid=176
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=176
+
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/6LQ0Z1O.png",ON Style TV
-https://freem3u.xyz/api/live/play.m3u8?vid=184
+#https://freem3u.xyz/api/live/play.m3u8?vid=184
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=184
+
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/45BXPY3.png",ON Music 
-https://freem3u.xyz/api/live/play.m3u8?vid=185
+#https://freem3u.xyz/api/live/play.m3u8?vid=185
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=185
+
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON Trending TV
-https://freem3u.xyz/api/live/play.m3u8?vid=186
+#https://freem3u.xyz/api/live/play.m3u8?vid=186
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=186
+
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie DRAMAS
-https://freem3u.xyz/api/live/play.m3u8?vid=177
+#https://freem3u.xyz/api/live/play.m3u8?vid=177
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=177
+
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily
-https://freem3u.xyz/api/live/play.m3u8?vid=187
+#https://freem3u.xyz/api/live/play.m3u8?vid=187
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=187
+
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/3XEFbua.png", ON Kids
-https://freem3u.xyz/api/live/play.m3u8?vid=179
+#https://freem3u.xyz/api/live/play.m3u8?vid=179
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=179
+
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/2xT5HFx.png",ON Life
-https://freem3u.xyz/api/live/play.m3u8?vid=188
+#https://freem3u.xyz/api/live/play.m3u8?vid=188
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=188
 
 #--*.*--SCTV--*.*--#
 
