@@ -208,7 +208,9 @@ https://vpsttt.vietanhtv.top/sctv/proxy.php/https://e11.endpoint.cdn.sctvonline.
 https://vpsttt.vietanhtv.top/sctv/proxy.php/https://e1.endpoint.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/2/vtdH_GdrWcq1NpzhrW92Kw/1782061200/PI8HI3T/live/hls/sctv12/index.m3u8
 
 #EXTINF:-1 tvg-id="sctv13hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV13.png",SCTV13 HD (Phụ nữ & Gia đình)
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv13-67f88fcb
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4
+#https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv13-67f88fcb
+https://vpsttt.vietanhtv.top/sctv/proxy.php/https://e12.endpoint.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/1/rh-jTeUXGOrUUT4TZnXnfw/1782061200/PI8HI3T/live/sctv13/master.m3u8
 
 #EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV14.png",SCTV14 HD (Kênh Phim Việt)
 https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv14-789c9f45
@@ -216,23 +218,36 @@ https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv14-789c9f45
 #EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV16.png",SCTV16 HD (Phim nước ngoài)
 https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv16-dd1535e8
 
+#EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV17.png",SCTV17 HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4
+https://vpsttt.vietanhtv.top/sctv/proxy.php/https://e13.endpoint.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/1/gqFGgXPIivgmOL8JMEsxFg/1782061200/PI8HI3T/live/sctv17/router_v1___.m3u8
+
 #EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV18.png",SCTV18 HD
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv18-398b0b4e
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4
+#https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv18-398b0b4e
+https://vpsttt.vietanhtv.top/sctv/proxy.php/https://e10.endpoint.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/1/FI_mD8n3J29_nmYxQfF2Cg/1782061200/PI8HI3T/live:forensic/sctv18/master.m3u8
 
 #EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV19.png",SCTV19 HD | T Channel
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv19-bf00bd02
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4
+#https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv19-cb98949a
+https://vpsttt.vietanhtv.top/sctv/proxy.php/https://e8.endpoint.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/2/xlp065SwEXmh0-zK7hbpLw/1782061200/PI8HI3T/live/hls/sctv19/index.m3u8
 
 #EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV20.png",SCTV20 HD (Kênh ca nhạc)
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv19-cb98949a
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4
+https://vpsttt.vietanhtv.top/sctv/proxy.php/https://e1.endpoint.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/2/PoDCuBir9pKZbXPt4gYyXw/1782061200/PI8HI3T/live/channel/sctv20/index.m3u8
 
 #EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV21.png",SCTV21 HD (Việt Nam ký ức)
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv-21-57de221a
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4
+#https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv-21-57de221a
+https://vpsttt.vietanhtv.top/sctv/proxy.php/https://e1.endpoint.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/2/UefPG-cZgmoMbDc8LbEXmw/1782061200/PI8HI3T/live/hls/sctv21/index.m3u8
 
 #EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV22.png",SCTV22 HD (Thể thao) | S Sport 1
 https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv22-d388dc25
 
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTVPTH.png",SCTV Phim Tổng Hợp HD
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv-phim-tong-hop-e6d2df88
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4
+#https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv-phim-tong-hop-e6d2df88
+https://vpsttt.vietanhtv.top/sctv/proxy.php/https://e12.endpoint.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/1/lmRCNJufz_JjMqU_LJpyTg/1782061200/PI8HI3T/live/sctvpth/master.m3u8
 
 #-*--Địa phương-*--#
 
