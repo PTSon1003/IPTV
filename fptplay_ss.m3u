@@ -2,7 +2,13 @@
 
 #Links stream live TV được sưu tầm trên mạng, chỉ dùng cho mục đích cá nhân và không chịu trách nhiệm nếu ai tự ý sử dụng với mục đích khác.
 
+# FPTPLAY EVENT
+
+#EXTINF:-1 tvg-id="fptplay" tvg-group-logo="" group-title="EVENT" tvg-logo="", EVENT FPTPLAY
+https://live.fptplay53.net/fnxhd2/f-channel1_vhls.smil/chunklist_b1800000.m3u8
+
 # Thiết yếu
+
 #EXTINF:-1 tvg-id="antvhd" tvg-group-logo="" group-title="Thiết yếu" tvg-logo="",ANTV HD (VTV Prime)
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8
 
@@ -10,6 +16,7 @@ https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/fnxhd1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
 
 # VTV
+
 #EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="" group-title="VTV" ,VTV1
 https://live.fptplay53.net/fnxhd1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
 
@@ -103,60 +110,46 @@ https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist_b5000000.m3u8
 #--*.*--VTVCad--*.*--#
 
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí 
-#https://freem3u.xyz/api/live/play.m3u8?vid=180
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=180
+https://freem3u.xyz/api/live/play.m3u8?vid=180
 
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies 
-#https://freem3u.xyz/api/live/play.m3u8?vid=181
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=181
+https://freem3u.xyz/api/live/play.m3u8?vid=181
 
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/87JEXEQ.png",ON E Channel 
-#https://freem3u.xyz/api/live/play.m3u8?vid=182
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=182
+https://freem3u.xyz/api/live/play.m3u8?vid=182
 
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/nqwVkmM.png",ON O2TV
-#https://freem3u.xyz/api/live/play.m3u8?vid=136
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=136
+https://freem3u.xyz/api/live/play.m3u8?vid=136
 
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/YFmPo7l.png",ON BiBi
-#https://freem3u.xyz/api/live/play.m3u8?vid=178
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=178
+https://freem3u.xyz/api/live/play.m3u8?vid=178
 
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/jp57P0v.png",ON Info TV
-#https://freem3u.xyz/api/live/play.m3u8?vid=189
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=189
+https://freem3u.xyz/api/live/play.m3u8?vid=189
 
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/6f9ngwY.png",ON Cine
-#https://freem3u.xyz/api/live/play.m3u8?vid=176
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=176
+https://freem3u.xyz/api/live/play.m3u8?vid=176
 
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/6LQ0Z1O.png",ON Style TV
-#https://freem3u.xyz/api/live/play.m3u8?vid=184
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=184
+https://freem3u.xyz/api/live/play.m3u8?vid=184
 
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/45BXPY3.png",ON Music 
-#https://freem3u.xyz/api/live/play.m3u8?vid=185
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=185
+https://freem3u.xyz/api/live/play.m3u8?vid=185
 
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON Trending TV
-#https://freem3u.xyz/api/live/play.m3u8?vid=186
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=186
+https://freem3u.xyz/api/live/play.m3u8?vid=186
 
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie DRAMAS
-#https://freem3u.xyz/api/live/play.m3u8?vid=177
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=177
+https://freem3u.xyz/api/live/play.m3u8?vid=177
 
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily
-#https://freem3u.xyz/api/live/play.m3u8?vid=187
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=187
+https://freem3u.xyz/api/live/play.m3u8?vid=187
 
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/3XEFbua.png", ON Kids
-#https://freem3u.xyz/api/live/play.m3u8?vid=179
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=179
+https://freem3u.xyz/api/live/play.m3u8?vid=179
 
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/2xT5HFx.png",ON Life
-#https://freem3u.xyz/api/live/play.m3u8?vid=188
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=188
+https://freem3u.xyz/api/live/play.m3u8?vid=188
 
 #--*.*--SCTV--*.*--#
 
@@ -321,7 +314,6 @@ https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="hanoi1" group-title="Địa phương" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD _ TH Hà Nội
 https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist_b5000000.m3u8
 
-
 #EXTINF:0 tvg-id="dienbien" group-title="Địa phương" tvg-logo="https://i.imgur.com/Rky1N5S.png",ĐTV _ TH Điện Biên
 https://live.fptplay53.net/fnxsd1/dienbien_hls.smil/chunklist_b2500000.m3u8
 
@@ -349,21 +341,11 @@ https://live.fptplay53.net/fnxsd1/quangninh1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="quangninh3" group-title="Địa phương" tvg-logo="https://i.imgur.com/4hadYbw.png",QTV3 HD _ TH Quảng Ninh
 https://live.fptplay53.net/fnxsd1/quangninh3_hls.smil/chunklist_b2500000.m3u8
 
-
-
 #EXTINF:0 tvg-id="haiphong" group-title="Địa phương" tvg-logo="https://i.imgur.com/StFk4PA.png",THP HD _ TH TP. Hải Phòng
 https://live.fptplay53.net/fnxsd1/haiphong_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-id="ninhbinh" group-title="Địa phương" tvg-logo="https://i.imgur.com/XuYnZWe.png",NTV HD _ TH Ninh Bình
 https://live.fptplay53.net/fnxsd1/ninhbinh_hls.smil/chunklist_b2500000.m3u8
-
-
-
-
-
-
-
-
 
 #EXTINF:0 tvg-id="sonla" group-title="Địa phương" tvg-logo="https://i.imgur.com/QZT6GIh.png",STV _ TH Sơn La
 https://live.fptplay53.net/fnxsd1/sonla_hls.smil/chunklist_b2500000.m3u8
