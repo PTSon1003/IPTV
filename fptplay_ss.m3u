@@ -114,11 +114,9 @@ https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist_b5000000.m3u8
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=180
 
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies 
-3https://vpsttt.vietanhtv.top/tv360/tv360.php?id=181
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=181
 
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/87JEXEQ.png",ON E Channel 
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=182
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=182
 
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/nqwVkmM.png",ON O2TV
@@ -159,7 +157,7 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=188
 #EXTINF:-1 tvg-id="sctv1hd" tvg-group-logo="https://bom.so/wJ7RFL" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV1.png",SCTV1 HD (Hài)
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4
 #https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv1-hd-7f2aafec
-https://vpsttt.vietanhtv.top/sctv/proxy.php/https://e11.endpoint.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/1/6KUBYreCg3j9b1lOgj4u-w/1782061200/PI8HI3T/live/sctv1/master.m3u8
+https://vpsttt.vietanhtv.top/sctv/proxy.php/https://e11.endpoint.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/1/mk1VwQ0-pejrwTpCra97Kg/1782234000/PI8HI3T/live/sctv1/master.m3u8
 
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV2.png",SCTV2 HD | TODAY TV
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=201
