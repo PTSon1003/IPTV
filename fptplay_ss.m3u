@@ -274,7 +274,8 @@ https://live.fptplay53.net/epzhd2/vinhlong5hd_vhls.smil/chunklist_b1800000.m3u8
 https://live.fptplay53.net/epzsd1/tayninh01_hls.smil/chunklist_b1800000.m3u8
 
 #EXTINF:0 tvg-id="dongthap" group-title="Địa phương" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 _ TH Đồng Tháp
-https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8
+#https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8
+https://live.fptplay53.net/epzhd2/dongthap01_vhls.smil/chunklist_b1800000.m3u8
 
 #EXTINF:0 tvg-id="" group-title="Địa phương" tvg-logo="https://i.imgur.com/WXebESa.png",THĐT2 Miền Tây
 https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist_b5000000.m3u8
