@@ -449,7 +449,7 @@ https://live.fptplay53.net/epzsd1/angiang01_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="angiang2" group-title="Địa Phương" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/angiang2.png", ATV2 HD | TH An Giang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist.m3u8
+https://live.fptplay53.net/epzhd2/angiang02hd_vhls.smil/chunklist_b1800000.m3u8
 
 #EXTINF:-1 tvg-id="angiang3" group-title="Địa Phương" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/angiang3.png", ATV3 HD | TH An Giang
 https://live.fptplay53.net/epzsd1/angiang03_hls.smil/chunklist.m3u8
@@ -467,14 +467,14 @@ https://live.fptplay53.net/epzsd1/lamdong02_hls.smil/chunklist.m3u8
 https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="camau" group-title="Địa Phương" tvg-logo="https://freem3u.xyz/static/images/diaphuong/camau.png", CTV HD | TH Cà Mau
-https://live.fptplay53.net/epzsd1/camau_hls.smil/chunklist.m3u8
+https://live.fptplay53.net/epzhd2/camauhd_vhls.smil/chunklist_b1800000.m3u8
 #http://tv.ctvcamau.vn/live/tv/tv.m3u8
 
 #EXTINF:-1 tvg-id="cantho1" group-title="Địa Phương" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/cantho1_new.png", Cần Thơ TV 1 | TH Cần Thơ
-https://live.fptplay53.net/epzsd1/cantho_hls.smil/chunklist.m3u8
+https://live.fptplay53.net/epzhd2/cantho01_vhls.smil/chunklist_b1800000.m3u8
 
 #EXTINF:-1 tvg-id="cantho2" group-title="Địa Phương" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/cantho2_new.png", Cần Thơ TV 2 | TH Cần Thơ
-https://live.fptplay53.net/epzsd1/cantho02_vhls.smil/chunklist.m3u8
+https://live.fptplay53.net/epzhd2/cantho02_vhls.smil/chunklist_b1800000.m3u8
 #https://megasystems-6c680321cd.gw-dthcdn.com/haugiangtv/index.m3u8
 
 #EXTINF:-1 tvg-id="cantho3" group-title="Địa Phương" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/cantho3_new.png", Cần Thơ TV 3 | TH Cần Thơ
@@ -498,7 +498,7 @@ https://live.fptplay53.net/epzhd2/dongthap01_vhls.smil/chunklist_b1800000.m3u8
 #https://liveh34.vtvprime.vn/hls/DONGTHAPTV/index.m3u8
 
 #EXTINF:-1 tvg-id="dongthap2" group-title="Địa Phương" tvg-logo="https://freem3u.xyz/static/images/diaphuong/dongthap2.png", THĐT2 HD | TH Đồng Tháp
-https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist.m3u8
+https://live.fptplay53.net/epzhd2/mientaythdt02_vhls.smil/chunklist_b1800000.m3u8
 #https://618b88f69e53b.streamlock.net/THDT2/thdttv2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="danang1" group-title="Địa Phương" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/danang1.png", DaNangTV1 HD
@@ -538,9 +538,10 @@ https://live.fptplay53.net/epzsd1/quangtri_hls.smil/chunklist.m3u8
 #https://tructuyen.baoquangtri.vn:5443/LiveApp/streams/20VcR6dL2B9Krwob13486956694488871.m3u8
 
 #EXTINF:-1 tvg-id="hanoi1" group-title="Địa Phương" tvg-logo="https://freem3u.xyz/static/images/diaphuong/hanoi1.png", HanoiTV1 HD
-https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist.m3u8
+#https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist.m3u8
 #https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/playlist.m3u8
 #https://liveh34.vtvprime.vn/hls/HANOI1TV/index.m3u8
+https://live-a.fptplay53.net/live/media/hanoitv2/live-hls-avc/hanoitv2-avc1_1499968=10002-mp4a_131600=20000.m3u8
 
 #EXTINF:-1 tvg-id="hanoi2" group-title="Địa Phương" tvg-logo="https://freem3u.xyz/static/images/diaphuong/hanoi2.png", HanoiTV2 HD
 https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/playlist.m3u8
@@ -628,13 +629,6 @@ https://live.fptplay53.net/fnxsd1/thanhhoa_hls.smil/chunklist.m3u8
 https://live.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist.m3u8
 #https://streaming.tuyenquangtv.vn/channel/tuyenquang/playlist.m3u8
 #https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv365&q=high&pkg=pkg11.hni
-
-#EXTINF:-1 tvg-id="hitv" group-title="Địa Phương" tvg-logo="https://freem3u.xyz/static/images/hanoicab/hitv.png", HiTV
-https://vpsttt.vietanhtv.top/tv360/tv360.m3u8?id=32
-
-#EXTINF:-1 tvg-id="youtv" group-title="Địa Phương" tvg-logo="https://freem3u.xyz/static/images/hanoicab/youtv.png", You TV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.
-https://vpsttt.vietanhtv.top/tv360/tv360.m3u8?id=31
 
 # --- Nhóm In The Box ---
 
@@ -881,32 +875,6 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/in
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/playlist.m3u8?_xtfc=6864eb7721a75224098f21dba116e648&_xt=1772525259
 
 # --- RẠP PHIM 360 ---
-
-#EXTINF:-1 group-title="Rạp Phim" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/07/15/1775549899305/f54a93a767c5_640_360.png", 360 Phim Việt
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9902
-#EXTINF:-1 group-title="Rạp Phim" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/09/08/1775697767861/9a6dc88794cf_640_360.png", 360 Phim Âu Mỹ
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9903
-#EXTINF:-1 group-title="Rạp Phim" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/09/08/1775697736867/3854900b7263_640_360.png", 360 Phim Hoa Ngữ
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=10008
-#EXTINF:-1 group-title="Rạp Phim" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/07/15/1775549978212/fcfc9c6d7919_640_360.png", 360 Phim Hoạt Hình
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9934
-#EXTINF:-1 group-title="Rạp Phim" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/08/10/1775617851169/1f38a5af77c1_640_360.png", 360 Phim Hành động Châu Á
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=10009
-#EXTINF:-1 group-title="Rạp Phim" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/09/21/1775744591740/79928f9b003f_640_360.png", 360 Phim K-Dramma
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=10010
-#EXTINF:-1 group-title="Rạp Phim" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/13/13/1776063183880/03439dc9da19_640_360.png", 360 Phim Hài-tình cảm
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=10011
-#EXTINF:-1 group-title="Rạp Phim" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/13/13/1776063200976/6ced2ef539a4_640_360.png", 360 Phim Kinh điển
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=10012
-#EXTINF:-1 group-title="Rạp Phim" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/13/13/1776063223569/462daff06d9d_640_360.png", 360 ANIME
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=10013
-
-# --- KHOẢNH KHẮC THỂ THAO 360 ---
-#EXTINF:-1 group-title="Khoảnh khắc thể thao" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/22/177626841934/e289a43bd190_640_360.png", 360 C1 CHÂU ÂU
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=10014
-#EXTINF:-1 group-title="Khoảnh khắc thể thao" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/16/00/1776274695415/4b2703dbb4c4_640_360.png", 360 THỂ THAO CHÂU Á
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=10017
-
 
 # --- SỰ KIỆN FPTPLAY ---
 
