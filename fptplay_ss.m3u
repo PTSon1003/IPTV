@@ -60,7 +60,8 @@ https://live.fptplay53.net/live/media/v9abr/live247-hls-avc/v9abr-avc1_5600000=1
 
 
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="" group-title="VTV" , VTV 10
-https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
+#https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
+https://live.fptplay53.net/live/media/v10abr/live247-hls-avc/v10abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
 
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="h",Vietnam Today HD
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
