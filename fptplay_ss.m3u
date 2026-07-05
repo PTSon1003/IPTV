@@ -119,153 +119,166 @@ https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist_b5000000.m3u8
 #--*.*--VTVCad--*.*--#
 
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #https://vietanhtv.id.vn//tv360/tv360.php?id=180
 #https://vpsttt.vietanhtv.top/tv360/tv360.php?id=180
 https://tpninosaga.duckdns.org/source/tv360.m3u8?id=180&token=NinoExility
 
-#EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies 
+#EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=181
 #https://tpninosaga.duckdns.org/source/tv360.m3u8?id=181&token=NinoExility
 
-#EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/87JEXEQ.png",ON E Channel 
+#EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/87JEXEQ.png",ON E Channel
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #https://vpsttt.vietanhtv.top/tv360/tv360.php?id=182
 https://tpninosaga.duckdns.org/source/tv360.m3u8?id=182&token=NinoExility
 
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/nqwVkmM.png",ON O2TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #https://vpsttt.vietanhtv.top/tv360/tv360.php?id=136
 https://tpninosaga.duckdns.org/source/tv360.m3u8?id=136&token=NinoExility
 
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/YFmPo7l.png",ON BiBi
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #https://vpsttt.vietanhtv.top/tv360/tv360.php?id=178
 https://tpninosaga.duckdns.org/source/tv360.m3u8?id=178&token=NinoExility
 
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/jp57P0v.png",ON Info TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #https://vpsttt.vietanhtv.top/tv360/tv360.php?id=189
 https://tpninosaga.duckdns.org/source/tv360.m3u8?id=189&token=NinoExility
 
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/6f9ngwY.png",ON Cine
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=176
 #https://tpninosaga.duckdns.org/source/tv360.m3u8?id=176&token=NinoExility
 
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/6LQ0Z1O.png",ON Style TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #https://vpsttt.vietanhtv.top/tv360/tv360.php?id=184
 https://tpninosaga.duckdns.org/source/tv360.m3u8?id=184&token=NinoExility
 
-#EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/45BXPY3.png",ON Music 
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=185
+#EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/45BXPY3.png",ON Music
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#https://vpsttt.vietanhtv.top/tv360/tv360.php?id=185
+https://tpninosaga.duckdns.org/source/tv360.m3u8?id=185&token=NinoExility
 
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON Trending TV
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=186
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#https://vpsttt.vietanhtv.top/tv360/tv360.php?id=186
+https://tpninosaga.duckdns.org/source/tv360.m3u8?id=186&token=NinoExility
 
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie DRAMAS
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=177
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#https://vpsttt.vietanhtv.top/tv360/tv360.php?id=177
+https://tpninosaga.duckdns.org/source/tv360.m3u8?id=177&token=NinoExility
 
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=187
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#https://vpsttt.vietanhtv.top/tv360/tv360.php?id=187
+https://tpninosaga.duckdns.org/source/tv360.m3u8?id=187&token=NinoExility
 
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/3XEFbua.png", ON Kids
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=179
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#https://vpsttt.vietanhtv.top/tv360/tv360.php?id=179
+https://tpninosaga.duckdns.org/source/tv360.m3u8?id=179&token=NinoExility
 
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/2xT5HFx.png",ON Life
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=188
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#https://vpsttt.vietanhtv.top/tv360/tv360.php?id=188
+https://tpninosaga.duckdns.org/source/tv360.m3u8?id=188&token=NinoExility
+
 
 #--*.*--SCTV--*.*--#
 
 #EXTINF:-1 tvg-id="sctv1hd" tvg-group-logo="https://bom.so/wJ7RFL" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV1.png",SCTV1 HD (Hài)
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4
-#https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv1-hd-7f2aafec
-https://vpsttt.vietanhtv.top/sctv/proxy.php/https://e11.endpoint.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/1/mk1VwQ0-pejrwTpCra97Kg/1782234000/PI8HI3T/live/sctv1/master.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv1-hd-7f2aafec
 
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV2.png",SCTV2 HD | TODAY TV
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=201
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://tpninosaga.duckdns.org/source/tv360.m3u8?id=201&token=NinoExility
 
 #EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV3.png",SCTV3 HD (Kênh thiếu nhi) | SEE TV
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv3-hd-cf3adaca
-https://vpsttt.vietanhtv.top/sctv/proxy.php/https://e8.endpoint.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/2/oufdE0DlgFnUJ22FmeICAQ/1782061200/PI8HI3T/live/hls/sctv3/index.m3u8
 
 #EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV4.png",SCTV4 HD (Let's Việt)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv4-ae779f7e
 
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/SCTV5.jpg", SCTV5
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4
-#https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv5-a3cdb592
-https://vpsttt.vietanhtv.top/sctv/proxy.php/https://e8.endpoint.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/2/4RpUL1e3DEQYyDXE9hdsEA/1782061200/PI8HI3T/live/hls/sctv5/index.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv5-a3cdb592
 
 #EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV6.png",SCTV6 HD (Giải trí thế hệ mới)
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV7.png",SCTV7 HD (Kênh sân khấu)
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv7-ef7e259a
 https://vpsttt.vietanhtv.top/sctv/proxy.php/https://e1.endpoint.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/2/2n8rqpMdD8AUGsX-OopabQ/1782061200/PI8HI3T/live/hls/sctv7/index.m3u8
 
 #EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV8.png",SCTV8 HD (Kinh tế thị trường)
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4
-#https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv8-c12d138b
-https://vpsttt.vietanhtv.top/sctv/proxy.php/https://e1.endpoint.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/2/WLHsqLaIAxU1P-HjI9PeZQ/1782061200/PI8HI3T/live/hls/sctv8/index.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv8-c12d138b
 
 #EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV9.png",SCTV9 HD (Phim Châu Á)
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4
-#https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv9-cdd19ab2
-https://vpsttt.vietanhtv.top/sctv/proxy.php/https://e11.endpoint.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/1/XpxUQwsYfZZwC__4oPit_Q/1782061200/PI8HI3T/live/sctv9/master.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv9-cdd19ab2
 
 #EXTINF:-1 tvg-id="sctv10hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV10.png",SCTV10 HD (Huyndai Shopping)
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4
-#https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv10-0faf313b
-https://vpsttt.vietanhtv.top/sctv/proxy.php/https://e11.endpoint.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/1/2XckaLIvs63EHEkiA7sEHA/1782061200/PI8HI3T/live/sctv10/master.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv10-0faf313b
 
 #EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV11.png",SCTV11 HD (TV Star)
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4
-https://vpsttt.vietanhtv.top/sctv/proxy.php/https://e11.endpoint.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/1/TvvbWyrX1_9lJy1hqKjalw/1782061200/PI8HI3T/live/sctv11/master.m3u8
-#https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv11-1d565c47
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv11-1d565c47
 
 #EXTINF:-1 tvg-id="sctv12hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV12.png",SCTV12 HD (Du lịch khám phá)
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4
-#https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv12-b0d6c023
-https://vpsttt.vietanhtv.top/sctv/proxy.php/https://e1.endpoint.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/2/vtdH_GdrWcq1NpzhrW92Kw/1782061200/PI8HI3T/live/hls/sctv12/index.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv12-b0d6c023
 
 #EXTINF:-1 tvg-id="sctv13hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV13.png",SCTV13 HD (Phụ nữ & Gia đình)
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4
-#https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv13-67f88fcb
-https://vpsttt.vietanhtv.top/sctv/proxy.php/https://e12.endpoint.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/1/rh-jTeUXGOrUUT4TZnXnfw/1782061200/PI8HI3T/live/sctv13/master.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv13-67f88fcb
 
 #EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV14.png",SCTV14 HD (Kênh Phim Việt)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv14-789c9f45
 
 #EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV16.png",SCTV16 HD (Phim nước ngoài)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv16-dd1535e8
 
 #EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV17.png",SCTV17 HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/sctv/proxy.php/https://e13.endpoint.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/1/gqFGgXPIivgmOL8JMEsxFg/1782061200/PI8HI3T/live/sctv17/router_v1___.m3u8
 
 #EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV18.png",SCTV18 HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4
-#https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv18-398b0b4e
-https://vpsttt.vietanhtv.top/sctv/proxy.php/https://e10.endpoint.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/1/FI_mD8n3J29_nmYxQfF2Cg/1782061200/PI8HI3T/live:forensic/sctv18/master.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv18-398b0b4e
 
 #EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV19.png",SCTV19 HD | T Channel
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4
-#https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv19-cb98949a
-https://vpsttt.vietanhtv.top/sctv/proxy.php/https://e8.endpoint.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/2/xlp065SwEXmh0-zK7hbpLw/1782061200/PI8HI3T/live/hls/sctv19/index.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv19-cb98949a
 
 #EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV20.png",SCTV20 HD (Kênh ca nhạc)
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/sctv/proxy.php/https://e1.endpoint.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/2/PoDCuBir9pKZbXPt4gYyXw/1782061200/PI8HI3T/live/channel/sctv20/index.m3u8
 
 #EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV21.png",SCTV21 HD (Việt Nam ký ức)
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4
-#https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv-21-57de221a
-https://vpsttt.vietanhtv.top/sctv/proxy.php/https://e1.endpoint.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/2/UefPG-cZgmoMbDc8LbEXmw/1782061200/PI8HI3T/live/hls/sctv21/index.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv-21-57de221a
 
 #EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV22.png",SCTV22 HD (Thể thao) | S Sport 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv22-d388dc25
 
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTVPTH.png",SCTV Phim Tổng Hợp HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4
-#https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv-phim-tong-hop-e6d2df88
-https://vpsttt.vietanhtv.top/sctv/proxy.php/https://e12.endpoint.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/1/lmRCNJufz_JjMqU_LJpyTg/1782061200/PI8HI3T/live/sctvpth/master.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv-phim-tong-hop-e6d2df88
 
 #-*--Địa phương-*--#
 
