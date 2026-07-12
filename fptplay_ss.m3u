@@ -122,73 +122,86 @@ https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #https://vietanhtv.id.vn//tv360/tv360.php?id=180
 #https://vpsttt.vietanhtv.top/tv360/tv360.php?id=180
-https://tpninosaga.duckdns.org/source/tv360.m3u8?id=180&token=NinoExility
+#https://tpninosaga.duckdns.org/source/tv360.m3u8?id=180&token=NinoExility
+https://freem3u.xyz/api/live/play.m3u8?vid=180
 
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=181
+#https://vpsttt.vietanhtv.top/tv360/tv360.php?id=181
 #https://tpninosaga.duckdns.org/source/tv360.m3u8?id=181&token=NinoExility
+https://freem3u.xyz/api/live/play.m3u8?vid=181
 
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/87JEXEQ.png",ON E Channel
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #https://vpsttt.vietanhtv.top/tv360/tv360.php?id=182
-https://tpninosaga.duckdns.org/source/tv360.m3u8?id=182&token=NinoExility
+#https://tpninosaga.duckdns.org/source/tv360.m3u8?id=182&token=NinoExility
+https://freem3u.xyz/api/live/play.m3u8?vid=182
 
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/nqwVkmM.png",ON O2TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #https://vpsttt.vietanhtv.top/tv360/tv360.php?id=136
-https://tpninosaga.duckdns.org/source/tv360.m3u8?id=136&token=NinoExility
+#https://tpninosaga.duckdns.org/source/tv360.m3u8?id=136&token=NinoExility
+https://freem3u.xyz/api/live/play.m3u8?vid=136
 
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/YFmPo7l.png",ON BiBi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #https://vpsttt.vietanhtv.top/tv360/tv360.php?id=178
-https://tpninosaga.duckdns.org/source/tv360.m3u8?id=178&token=NinoExility
+#https://tpninosaga.duckdns.org/source/tv360.m3u8?id=178&token=NinoExility
+https://freem3u.xyz/api/live/play.m3u8?vid=178
 
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/jp57P0v.png",ON Info TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #https://vpsttt.vietanhtv.top/tv360/tv360.php?id=189
-https://tpninosaga.duckdns.org/source/tv360.m3u8?id=189&token=NinoExility
+#https://tpninosaga.duckdns.org/source/tv360.m3u8?id=189&token=NinoExility
+https://freem3u.xyz/api/live/play.m3u8?vid=189
 
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/6f9ngwY.png",ON Cine
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=176
+#https://vpsttt.vietanhtv.top/tv360/tv360.php?id=176
 #https://tpninosaga.duckdns.org/source/tv360.m3u8?id=176&token=NinoExility
+https://freem3u.xyz/api/live/play.m3u8?vid=176
 
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/6LQ0Z1O.png",ON Style TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #https://vpsttt.vietanhtv.top/tv360/tv360.php?id=184
-https://tpninosaga.duckdns.org/source/tv360.m3u8?id=184&token=NinoExility
+#https://tpninosaga.duckdns.org/source/tv360.m3u8?id=184&token=NinoExility
+https://freem3u.xyz/api/live/play.m3u8?vid=184
 
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/45BXPY3.png",ON Music
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #https://vpsttt.vietanhtv.top/tv360/tv360.php?id=185
-https://tpninosaga.duckdns.org/source/tv360.m3u8?id=185&token=NinoExility
+#https://tpninosaga.duckdns.org/source/tv360.m3u8?id=185&token=NinoExility
+https://freem3u.xyz/api/live/play.m3u8?vid=185
 
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON Trending TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #https://vpsttt.vietanhtv.top/tv360/tv360.php?id=186
-https://tpninosaga.duckdns.org/source/tv360.m3u8?id=186&token=NinoExility
+#https://tpninosaga.duckdns.org/source/tv360.m3u8?id=186&token=NinoExility
+https://freem3u.xyz/api/live/play.m3u8?vid=186
 
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie DRAMAS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #https://vpsttt.vietanhtv.top/tv360/tv360.php?id=177
-https://tpninosaga.duckdns.org/source/tv360.m3u8?id=177&token=NinoExility
+#https://tpninosaga.duckdns.org/source/tv360.m3u8?id=177&token=NinoExility
+https://freem3u.xyz/api/live/play.m3u8?vid=177
 
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #https://vpsttt.vietanhtv.top/tv360/tv360.php?id=187
-https://tpninosaga.duckdns.org/source/tv360.m3u8?id=187&token=NinoExility
+#https://tpninosaga.duckdns.org/source/tv360.m3u8?id=187&token=NinoExility
+https://freem3u.xyz/api/live/play.m3u8?vid=187
 
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/3XEFbua.png", ON Kids
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #https://vpsttt.vietanhtv.top/tv360/tv360.php?id=179
-https://tpninosaga.duckdns.org/source/tv360.m3u8?id=179&token=NinoExility
+#https://tpninosaga.duckdns.org/source/tv360.m3u8?id=179&token=NinoExility
+https://freem3u.xyz/api/live/play.m3u8?vid=179
 
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/2xT5HFx.png",ON Life
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #https://vpsttt.vietanhtv.top/tv360/tv360.php?id=188
-https://tpninosaga.duckdns.org/source/tv360.m3u8?id=188&token=NinoExility
-
+#https://tpninosaga.duckdns.org/source/tv360.m3u8?id=188&token=NinoExility
+https://freem3u.xyz/api/live/play.m3u8?vid=188
 
 #--*.*--SCTV--*.*--#
 
