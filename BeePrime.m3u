@@ -240,12 +240,20 @@ https://livevlisctcdnw.seenow.vn/livesnv2/D_DRAMAS_HD/manifest.mpd
 https://livevlisctcdnw.seenow.vn/livesnv2/VFAMILY/manifest.mpd
 
 #EXTINF:-1 tvg-id="onkids" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnKids.png",On Kids HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?vid=179
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c07669233e07416594577b29d60372a6:e8cfcf678750f494312dfcbdaee5132e
+#https://freem3u.xyz/api/live/play.m3u8?vid=179
+https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/BIBI_PLUS_clear/manifest.mpd
 
 #EXTINF:-1 tvg-id="onlife" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnLife.png",On Life HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?vid=188
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ca9c781a5ba142f2b03a8028fcecb847:c69c101846413ae8faa8d353c7979121
+https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/LIFE_TV/manifest.mpd
+#https://freem3u.xyz/api/live/play.m3u8?vid=188
 
 # --- Nhóm SCTV ---
 
