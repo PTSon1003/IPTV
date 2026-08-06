@@ -191,14 +191,11 @@ https://liveh12.vtvprime.vn/hls/VTVCAB13/03.m3u8
 
 #EXTINF:-1 tvg-id="sctv1hd" tvg-group-logo="https://bom.so/wJ7RFL" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV1.png",SCTV1 HD (Hài)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv1-hd-7f2aafec
-https://hoiquan.dpdns.org/VTVGo/?sctv1
+https://liveh12.vtvprime.vn/hls/SCTV1/03.m3u8
 
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV2.png",SCTV2 HD | TODAY TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#https://tpninosaga.duckdns.org/source/tv360.m3u8?id=201&token=NinoExility
-https://hoiquan.dpdns.org/VTVGo/?sctv2
-
+https://liveh12.vtvprime.vn/hls/SCTV2/03.m3u8
 
 #EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV3.png",SCTV3 HD (Kênh thiếu nhi) | SEE TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
