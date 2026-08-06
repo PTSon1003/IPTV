@@ -275,7 +275,7 @@ https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/LIFE_TV/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5
-https://livesct.vtvprime.vn/mean/VTV1_HD/manifest.mpd
+https://liveatmvng.vtvprime.vn/live/data8/SCTV1/Live_DASHDRM/SCTV1.mpd
 
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV2.png",SCTV2 HD | TODAY TV
 https://liveh12.vtvprime.vn/hls/SCTV2/03.m3u8
