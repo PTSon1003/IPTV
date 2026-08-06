@@ -4,12 +4,11 @@
 
 # --- Nhóm Thiết yếu ---
 
-#EXTINF:-1 tvg-id="antvhd" tvg-group-logo="" group-title="Thiết yếu" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/ThietYeu/AnNinhTv.png",ANTV HD (VTV Prime)
+#EXTINF:-1 tvg-id="antvhd" tvg-group-logo="" group-title="Thiết yếu" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/ThietYeu/AnNinhTv.png",ANTV HD
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="qpvnhd" group-title="Thiết yếu" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/ThietYeu/QuocPhongVn.png",QPVN HD (VTV Prime)
+#EXTINF:-1 tvg-id="qpvnhd" group-title="Thiết yếu" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/ThietYeu/QuocPhongVn.png",QPVN HD
 https://live.fptplay53.net/fnxhd1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
-
 
 # --- Nhóm VTV ---
 
