@@ -210,7 +210,13 @@ https://livevlisctcdnw.seenow.vn/livesnv2/O2_TV/manifest.mpd
 https://livevlisctcdnw.seenow.vn/livesnv2/BIBI/manifest.mpd
 
 #EXTINF:-1 tvg-id="oninfotv" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnInfo.png",ON Info HD
-https://freem3u.xyz/api/live/play.m3u8?vid=189
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39425f1a9f7f4db985b5e7b2e65e4208:63e3aad2bc5bed77e59724ba8d2e94f0
+https://livevlisctcdnw.seenow.vn/livesnv2/INFO_TV/manifest.mpd
+#https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/INFO_TV/manifest.mpd
+#https://freem3u.xyz/api/live/play.m3u8?vid=189
 
 #EXTINF:-1 tvg-id="oncine" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnCine.png",ON Cine HD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -227,8 +233,13 @@ https://cdnet-cdn-01.onsports.vn/onplus/FILM_TV/manifest.mpd
 https://livevlisctcdnw.seenow.vn/livesnv2/STYLE_TV_HD/manifest.mpd
 
 #EXTINF:-1 tvg-id="onmusic" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnMusic.png",On Music HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?vid=185
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e518bbb7e8614a7da4d8d974d62486da:b509751f1fa3c676f482cde476670dd6
+https://livevlisctcdnw.seenow.vn/livesnv2/M_CHANNEL/manifest.mpd
+#https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/M_CHANNEL/manifest.mpd
+#https://freem3u.xyz/api/live/play.m3u8?vid=185
 
 #EXTINF:0 tvg-id="ontrending" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnTrendingTv.png",ON TRENDING TV HD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -268,7 +279,6 @@ https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/LIFE_TV/manifest.mpd
 #https://freem3u.xyz/api/live/play.m3u8?vid=188
 
 # --- Nhóm SCTV ---
-
 
 #EXTINF:-1 tvg-id="sctv1hd" tvg-group-logo="https://bom.so/wJ7RFL" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV1.png",SCTV1 HD (Hài)
 #KODIPROP:inputstream=inputstream.adaptive
@@ -681,22 +691,18 @@ https://livevlisctcdnw.seenow.vn/livesnv2/MUSICBOX/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=2942ed303e0d40c9b99c94c587bbf509:96cda24109734fb7920d799d58d1a9ae
 https://livevlisctcdnw.seenow.vn/mean/WO/manifest.mpd
 
-# --- Nhóm Quốc tế (VTVPrime)---
+# --- Nhóm Quốc tế (VTVPrime/FPTPlay)---
 
 #EXTINF:-1 tvg-id="cna" tvg-group-logo="" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/cna.png",CNA
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a362f6885b1041f2b2e8282782e19e16:9e7f26762856474396e11bd3cfe4a778
-https://livebytatm.vtvprime.vn/live/data8/CAN/Live_DASHDRM/CAN.mpd
+#key=a362f6885b1041f2b2e8282782e19e16:9e7f26762856474396e11bd3cfe4a778
+#https://livebytatm.vtvprime.vn/live/data8/CAN/Live_DASHDRM/CAN.mpd
+https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="outdoorhd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/Outdoor.png",Outdoor Channel HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/mean/OUTDOORCHANNEL/manifest.mpd
+#key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+#https://livevlisctcdnw.seenow.vn/mean/OUTDOORCHANNEL/manifest.mpd
 #https://liveh12.vtvprime.vn/hls/OUTDOORCHANNEL/index.m3u8
+https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="hgtv" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/HGTV.png",HGTV HD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -707,11 +713,9 @@ https://livebytatm.vtvprime.vn/live/data8/HGTV/Live_DASHDRM/HGTV.mpd
 #https://liveh34.vtvprime.vn/hls/HGTV/03.m3u8
 
 #EXTINF:-1 tvg-id="cnbc" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/cnbc.png",CNBC 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a362f6885b1041f2b2e8282782e19e16:9e7f26762856474396e11bd3cfe4a778
-https://livebytatm.vtvprime.vn/live/data8/CNBC/Live_DASHDRM/CNBC.mpd
+#key=a362f6885b1041f2b2e8282782e19e16:9e7f26762856474396e11bd3cfe4a778
+#https://livebytatm.vtvprime.vn/live/data8/CNBC/Live_DASHDRM/CNBC.mpd
+https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="nhkworld" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/NHKWorldJapan.png",NHK World Japan HD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -721,60 +725,44 @@ https://livebytatm.vtvprime.vn/live/data8/CNBC/Live_DASHDRM/CNBC.mpd
 https://livebytsct.vtvprime.vn/mean/NHKWORLD/manifest.mpd
 
 #EXTINF:-1 tvg-id="afnhd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/afn.png",Asian Food Network HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a362f6885b1041f2b2e8282782e19e16:9e7f26762856474396e11bd3cfe4a778
-https://livebytatm.vtvprime.vn/live/data8/AFC/Live_DASHDRM/AFC.mpd
+#key=a362f6885b1041f2b2e8282782e19e16:9e7f26762856474396e11bd3cfe4a778
+#https://livebytatm.vtvprime.vn/live/data8/AFC/Live_DASHDRM/AFC.mpd
+https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="dw" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/DW.png",DW HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a362f6885b1041f2b2e8282782e19e16:9e7f26762856474396e11bd3cfe4a778
-https://livebytatm.vtvprime.vn/live/data8/DW/Live_DASHDRM/DW.mpd
+#key=a362f6885b1041f2b2e8282782e19e16:9e7f26762856474396e11bd3cfe4a778
+#https://livebytatm.vtvprime.vn/live/data8/DW/Live_DASHDRM/DW.mpd
+https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="arirang" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/arirang.png",Arirang HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a362f6885b1041f2b2e8282782e19e16:9e7f26762856474396e11bd3cfe4a778
-https://livebytatm.vtvprime.vn/live/data8/ARIRANG/Live_DASHDRM/ARIRANG.mpd
+#key=a362f6885b1041f2b2e8282782e19e16:9e7f26762856474396e11bd3cfe4a778
+#https://livebytatm.vtvprime.vn/live/data8/ARIRANG/Live_DASHDRM/ARIRANG.mpd
+https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="france24eng" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/France24Eng.png",France 24 HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a362f6885b1041f2b2e8282782e19e16:9e7f26762856474396e11bd3cfe4a778
-https://livebytsct.vtvprime.vn/mean/FRANCE24/manifest.mpd
+#key=a362f6885b1041f2b2e8282782e19e16:9e7f26762856474396e11bd3cfe4a778
+#https://livebytsct.vtvprime.vn/mean/FRANCE24/manifest.mpd
+https://live.fptplay53.net/fnxhd2/france24_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="kix" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/Kix.png",KIX HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a362f6885b1041f2b2e8282782e19e16:9e7f26762856474396e11bd3cfe4a778
-https://livebytatm.vtvprime.vn/live/data8/KIX/Live_DASHDRM/KIX.mpd
+#key=a362f6885b1041f2b2e8282782e19e16:9e7f26762856474396e11bd3cfe4a778
+#https://livebytatm.vtvprime.vn/live/data8/KIX/Live_DASHDRM/KIX.mpd
+https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="tv5monde" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/Tv5MondeAsie.png",TV5Monde Asie HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a362f6885b1041f2b2e8282782e19e16:9e7f26762856474396e11bd3cfe4a778
-https://livebytsct.vtvprime.vn/mean/5V5/manifest.mpd
+#key=a362f6885b1041f2b2e8282782e19e16:9e7f26762856474396e11bd3cfe4a778
+#https://livebytsct.vtvprime.vn/mean/5V5/manifest.mpd
+https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="kbsworld" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/KBSWorld.png",KBS World HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a362f6885b1041f2b2e8282782e19e16:9e7f26762856474396e11bd3cfe4a778
-https://livebytsct.vtvprime.vn/mean/KBS/manifest.mpd
+#key=a362f6885b1041f2b2e8282782e19e16:9e7f26762856474396e11bd3cfe4a778
+#https://livebytsct.vtvprime.vn/mean/KBS/manifest.mpd
+https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="davinci" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/DaVinci.png",Da Vinci HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a362f6885b1041f2b2e8282782e19e16:9e7f26762856474396e11bd3cfe4a778
-https://livebytsct.vtvprime.vn/mean/DAVINCY/manifest.mpd
+#key=a362f6885b1041f2b2e8282782e19e16:9e7f26762856474396e11bd3cfe4a778
+#https://livebytsct.vtvprime.vn/mean/DAVINCY/manifest.mpd
+https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="history" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/History.png",History HD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -782,6 +770,9 @@ https://livebytsct.vtvprime.vn/mean/DAVINCY/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a362f6885b1041f2b2e8282782e19e16:9e7f26762856474396e11bd3cfe4a778
 https://livebytatm.vtvprime.vn/live/data8/HISTORY/Live_DASHDRM/HISTORY.mpd
+
+#EXTINF:-1 tvg-id="afnhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/afnhd.png",AFN
+https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist.m3u8
 
 # --- Nhóm Quốc tế (MyTV) ---
 
@@ -917,6 +908,8 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/playlist.m3u8?_xtfc=6864eb7721a75224098f21dba116e648&_xt=1772525259
 
 # --- SỰ KIỆN FPTPLAY ---
+#EXTINF:-1 tvg-id="fptplay" tvg-group-logo="" group-title="EVENT" tvg-logo="", EVENT FPTPLAY
+https://live.fptplay53.net/fnxhd2/f-channel1_vhls.smil/chunklist_b1800000.m3u8
 
 # --- SỰ KIỆN TV360 ---
 
