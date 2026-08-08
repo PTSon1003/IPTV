@@ -215,7 +215,7 @@ https://vietanhtv.id.vn/sctv/tv.php?id=sctv16-dd1535e8
 
 #EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV17.png",SCTV17 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vietanhtv.id.vn/sctv/proxy.php/https://e13.endpoint.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/1/gqFGgXPIivgmOL8JMEsxFg/1782061200/PI8HI3T/live/sctv17/router_v1___.m3u8
+https://vietanhtv.id.vn/sctv/tv.php?id=sctv17-hd-87f0ff9d
 
 #EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV18.png",SCTV18 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -223,11 +223,11 @@ https://vietanhtv.id.vn/sctv/tv.php?id=sctv18-398b0b4e
 
 #EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV19.png",SCTV19 HD | T Channel
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vietanhtv.id.vn/sctv/tv.php?id=sctv19-cb98949a
+https://vietanhtv.id.vn/sctv/tv.php?id=sctv19-bf00bd02
 
 #EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV20.png",SCTV20 HD (Kênh ca nhạc)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vietanhtv.id.vn/sctv/proxy.php/https://e1.endpoint.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/2/PoDCuBir9pKZbXPt4gYyXw/1782061200/PI8HI3T/live/channel/sctv20/index.m3u8
+https://vietanhtv.id.vn/sctv/tv.php?id=sctv19-cb98949a
 
 #EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV21.png",SCTV21 HD (Việt Nam ký ức)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
