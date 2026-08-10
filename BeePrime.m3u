@@ -912,7 +912,7 @@ https://s7773.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv587/manifest.mpd?prefix=1&did
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=51c504394c30478ca76a5e663949531b:9f5592b39ffe46018d443eaa016277a7,8cb2f05c70ab47f2bcf113f68ac47005:73eff7ea42f3a2e3d5fe47754a87eacd,476913dd8f874518ad13c5710ee7c6af:388ca75fd36e087545b7c3d1519062a5,374bad7a3623431e9ff98d9c4a1d9de6:06045867b4d49098bea0772ac9eeb673
+#KODIPROP:inputstream.adaptive.license_key=51c504394c30478ca76a5e663949531b:9f5592b39ffe46018d443eaa016277a7,8cb2f05c70ab47f2bcf113f68ac47005:73eff7ea42f3a2e3d5fe47754a87eacd,476913dd8f874518ad13c5710ee7c6af:388ca75fd36e087545b7c3d1519062a5,374bad7a3623431e9ff98d9c4a1d9de6:06045867b4d49098bea0772ac9eeb673,18ec29ad9d014294a97f726d64d19af2:4737c92c593c3ef740b4a3272845c77e
 https://s7772.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv588/manifest.mpd?prefix=1&did=28822&ctl=239.174
 
 # --- RẠP PHIM ---
