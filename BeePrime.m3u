@@ -902,7 +902,7 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
 # --- SPOTV  ---
 
 #EXTINF:-1 tvg-id="" group-title="SPOTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SPOTV/SPOTV1.png",SPOTV
-#EXTVLCOPT:http-user-agent=vn.sctvonline.web/2.16.168.98298 (Windows/10; ; desktop)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
