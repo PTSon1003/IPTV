@@ -906,7 +906,7 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1149f512ee104b279baf3d4cf49b267f:6feda0ebcfd699fe1f857f2d2389b09c,6edf6637bba74f0487b114b2aaf531d4:9bd76d316021ac18258cc1ce8a74e125
+#KODIPROP:inputstream.adaptive.license_key=6edf6637bba74f0487b114b2aaf531d4:9bd76d316021ac18258cc1ce8a74e125,6edf6637bba74f0487b114b2aaf531d4:9bd76d316021ac18258cc1ce8a74e125,1149f512ee104b279baf3d4cf49b267f:6feda0ebcfd699fe1f857f2d2389b09c,1149f512ee104b279baf3d4cf49b267f:6feda0ebcfd699fe1f857f2d2389b09c
 https://s7773.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv587/manifest.mpd
 
 #EXTINF:-1 tvg-id="" group-title="SPOTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SPOTV/SPOTV2.png",SPOTV2
