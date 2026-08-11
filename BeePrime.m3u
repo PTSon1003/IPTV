@@ -902,18 +902,20 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
 # --- SPOTV  ---
 
 #EXTINF:-1 tvg-id="" group-title="SPOTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SPOTV/SPOTV1.png",SPOTV
+#EXTVLCOPT:http-user-agent=vn.sctvonline.web/2.16.168.98298 (Windows/10; ; desktop)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1edcf83b1d61498f8f5489a89d57406f:8338e1fde7eca24050327a7a08041b04,6edf6637bba74f0487b114b2aaf531d4:9bd76d316021ac18258cc1ce8a74e125,11bc8ea91b324c9bb848d636e4034343:71e7c5257c74d55a2a4c84a8c5bedd5f,50ebe69996d7448882082d3d88a9ffda:6dba80c551fcc336d4fc7296464e17fb,e46c10b4d0084386a1f87692bdf9c419:25bc6050da337b435ce797a8e6652e39
-https://s7773.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv587/manifest.mpd?prefix=1&did=31906&ctl=239.175
+#KODIPROP:inputstream.adaptive.license_key=1edcf83b1d61498f8f5489a89d57406f:8338e1fde7eca24050327a7a08041b04,6edf6637bba74f0487b114b2aaf531d4:9bd76d316021ac18258cc1ce8a74e125,11bc8ea91b324c9bb848d636e4034343:71e7c5257c74d55a2a4c84a8c5bedd5f,50ebe69996d7448882082d3d88a9ffda:6dba80c551fcc336d4fc7296464e17fb,e46c10b4d0084386a1f87692bdf9c419:25bc6050da337b435ce797a8e6652e39,5e1c0bf33e594126b1417b9aa62ebe9b:7082042caaeea3a23450860d5bfaf198,1149f512ee104b279baf3d4cf49b267f:6feda0ebcfd699fe1f857f2d2389b09c
+https://s7773.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv587/manifest.mpd
 
 #EXTINF:-1 tvg-id="" group-title="SPOTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SPOTV/SPOTV2.png",SPOTV2
+#EXTVLCOPT:http-user-agent=vn.sctvonline.web/2.16.168.98298 (Windows/10; ; desktop)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=51c504394c30478ca76a5e663949531b:9f5592b39ffe46018d443eaa016277a7,8cb2f05c70ab47f2bcf113f68ac47005:73eff7ea42f3a2e3d5fe47754a87eacd,476913dd8f874518ad13c5710ee7c6af:388ca75fd36e087545b7c3d1519062a5,374bad7a3623431e9ff98d9c4a1d9de6:06045867b4d49098bea0772ac9eeb673,18ec29ad9d014294a97f726d64d19af2:4737c92c593c3ef740b4a3272845c77e
-https://s7772.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv588/manifest.mpd?prefix=1&did=28822&ctl=239.174
+#KODIPROP:inputstream.adaptive.license_key=51c504394c30478ca76a5e663949531b:9f5592b39ffe46018d443eaa016277a7,8cb2f05c70ab47f2bcf113f68ac47005:73eff7ea42f3a2e3d5fe47754a87eacd,476913dd8f874518ad13c5710ee7c6af:388ca75fd36e087545b7c3d1519062a5,374bad7a3623431e9ff98d9c4a1d9de6:06045867b4d49098bea0772ac9eeb673,18ec29ad9d014294a97f726d64d19af2:4737c92c593c3ef740b4a3272845c77e,185781dfa2bf47318a31cc5c1e5be179:990443df340e2824ad19f6e3cc479161
+https://s7771.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv588/manifest.mpd
 
 # --- RẠP PHIM ---
 #EXTINF:-1 tvg-id="tvb-vietnam" group-title="Rạp Phim" tvg-logo="https://freem3u.xyz/static/images/tvb/tvbv.png", TVB Việt Nam
