@@ -123,72 +123,119 @@ https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist_b5000000.m3u8
 
 #--*.*--VTVCad--*.*--#
 
+#EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://s77107.cdn.mytvnet.vn/vimages/f6/68/85/5b/b0/02/f685b-ponsportshd-channel-unkn.png",ON Sport + HD
+https://tv.vietanhtv.top/mytv_b2c/mytvb2c.php?id=203
+
+#EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://s77107.cdn.mytvnet.vn/vimages/6b/b3/32/2f/f7/72/6b32f-ponsportsnews-channel-unkn.png",ON Sports News
+https://tv.vietanhtv.top/mytv_b2c/mytvb2c.php?id=441
+
+#EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://s77107.cdn.mytvnet.vn/vimages/5a/a1/16/6f/f7/78/5a16f-pongolf-channel-unkn.png",ON Golf
+https://tv.vietanhtv.top/mytv_b2c/mytvb2c.php?id=415
+
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí 
-https://freem3u.xyz/api/live/play.m3u8?vid=180
+#https://freem3u.xyz/api/live/play.m3u8?vid=180
+https://tv.vietanhtv.top/mytv_b2c/mytvb2c.php?id=197
+
+#EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://s77107.cdn.mytvnet.vn/vimages/3d/d2/24/49/9e/ed/3d249-ponphimvithd-channel-unkn.png",ON Phim Việt HD
+https://tv.vietanhtv.top/mytv_b2c/mytvb2c.php?id=198
+
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies 
-https://freem3u.xyz/api/live/play.m3u8?vid=181
+#https://freem3u.xyz/api/live/play.m3u8?vid=181
+https://tv.vietanhtv.top/mytv_b2c/mytvb2c.php?id=435
+
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/87JEXEQ.png",ON E Channel 
-https://freem3u.xyz/api/live/play.m3u8?vid=182
+#https://freem3u.xyz/api/live/play.m3u8?vid=182
+https://tv.vietanhtv.top/mytv_b2c/mytvb2c.php?id=202
+
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/nqwVkmM.png",ON O2TV
-https://freem3u.xyz/api/live/play.m3u8?vid=136
+#https://freem3u.xyz/api/live/play.m3u8?vid=136
+https://tv.vietanhtv.top/mytv_b2c/mytvb2c.php?id=27
+
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/YFmPo7l.png",ON BiBi
-https://freem3u.xyz/api/live/play.m3u8?vid=178
+#https://freem3u.xyz/api/live/play.m3u8?vid=178
+https://tv.vietanhtv.top/mytv_b2c/mytvb2c.php?id=205
+
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/jp57P0v.png",ON Info TV
-https://freem3u.xyz/api/live/play.m3u8?vid=189
+#https://freem3u.xyz/api/live/play.m3u8?vid=189
+https://tv.vietanhtv.top/mytv_b2c/mytvb2c.php?id=437
+
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/6f9ngwY.png",ON Cine
-https://freem3u.xyz/api/live/play.m3u8?vid=176
+#https://freem3u.xyz/api/live/play.m3u8?vid=176
+https://tv.vietanhtv.top/mytv_b2c/mytvb2c.php?id=204
+
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/6LQ0Z1O.png",ON Style TV
-https://freem3u.xyz/api/live/play.m3u8?vid=184
+#https://freem3u.xyz/api/live/play.m3u8?vid=184
+https://tv.vietanhtv.top/mytv_b2c/mytvb2c.php?id=206
+
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/45BXPY3.png",ON Music 
-https://freem3u.xyz/api/live/play.m3u8?vid=185
+#https://freem3u.xyz/api/live/play.m3u8?vid=185
+https://tv.vietanhtv.top/mytv_b2c/mytvb2c.php?id=439
+
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON Trending TV
-https://freem3u.xyz/api/live/play.m3u8?vid=186
+#https://freem3u.xyz/api/live/play.m3u8?vid=186
+https://tv.vietanhtv.top/mytv_b2c/mytvb2c.php?id=209
+
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie DRAMAS
 https://freem3u.xyz/api/live/play.m3u8?vid=177
+#https://tv.vietanhtv.top/mytv_b2c/mytvb2c.php?id=201
+
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily
-https://freem3u.xyz/api/live/play.m3u8?vid=187
+#https://freem3u.xyz/api/live/play.m3u8?vid=187
+https://tv.vietanhtv.top/mytv_b2c/mytvb2c.php?id=241
+
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/3XEFbua.png", ON Kids
-https://freem3u.xyz/api/live/play.m3u8?vid=179
+#https://freem3u.xyz/api/live/play.m3u8?vid=179
+https://tv.vietanhtv.top/mytv_b2c/mytvb2c.php?id=742
+
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/2xT5HFx.png",ON Life
-https://freem3u.xyz/api/live/play.m3u8?vid=188
+#https://freem3u.xyz/api/live/play.m3u8?vid=188
+https://tv.vietanhtv.top/mytv_b2c/mytvb2c.php?id=745
 
 #--*.*--SCTV--*.*--#
 
 #EXTINF:-1 tvg-id="sctv1hd" tvg-group-logo="https://bom.so/wJ7RFL" group-title="SCTV" tvg-logo="",SCTV1 HD (Hài)
 #https://vietanhtv.id.vn/sctv/tv.php?id=sctv1-hd-7f2aafec
-https://vmttv.dpdns.org/VTVGo/?sctv1
-
+#https://vmttv.dpdns.org/VTVGo/?sctv1
+https://tv.vietanhtv.top/mytv_b2c/mytvb2c.php?id=769
 
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="",SCTV2 HD | TODAY TV
-https://liveh12.vtvprime.vn/hls/SCTV2/03.m3u8
+#https://liveh12.vtvprime.vn/hls/SCTV2/03.m3u8
+https://tv.vietanhtv.top/mytv_b2c/mytvb2c.php?id=772
 
 #EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="",SCTV3 HD (Kênh thiếu nhi) | SEE TV
 #https://vietanhtv.id.vn/sctv/tv.php?id=sctv3-hd-cf3adaca
-https://vmttv.dpdns.org/VTVGo/?sctv3
+#https://vmttv.dpdns.org/VTVGo/?sctv3
+https://tv.vietanhtv.top/mytv_b2c/mytvb2c.php?id=775
+
 
 #EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="",SCTV4 HD (Let's Việt)
 #https://vietanhtv.id.vn/sctv/tv.php?id=sctv4-ae779f7e
-https://vmttv.dpdns.org/VTVGo/?sctv4
+#https://vmttv.dpdns.org/VTVGo/?sctv4
+https://tv.vietanhtv.top/mytv_b2c/mytvb2c.php?id=778
 
 #EXTINF:-1 group-title="SCTV" tvg-logo="", SCTV5
 #https://vietanhtv.id.vn/sctv/tv.php?id=sctv5-a3cdb592
 https://vmttv.dpdns.org/VTVGo/?sctv5
 
-
 #EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="",SCTV6 HD (Giải trí thế hệ mới)
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
+#https://tv.vietanhtv.top/mytv_b2c/mytvb2c.php?id=781
 
 #EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV" tvg-logo="",SCTV7 HD (Kênh sân khấu)
 #https://vietanhtv.id.vn/sctv/tv.php?id=sctv7-ef7e259a
-https://vmttv.dpdns.org/VTVGo/?sctv7
+#https://vmttv.dpdns.org/VTVGo/?sctv7
+https://tv.vietanhtv.top/mytv_b2c/mytvb2c.php?id=784
+
 
 #EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="",SCTV8 HD (Kinh tế thị trường)
 #https://vietanhtv.id.vn/sctv/tv.php?id=sctv8-c12d138b
-https://vmttv.dpdns.org/VTVGo/?sctv8
+#https://vmttv.dpdns.org/VTVGo/?sctv8
+https://tv.vietanhtv.top/mytv_b2c/mytvb2c.php?id=787
 
 #EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="",SCTV9 HD (Phim Châu Á)
 #https://vietanhtv.id.vn/sctv/tv.php?id=sctv9-cdd19ab2
-https://vmttv.dpdns.org/VTVGo/?sctv9
+#https://vmttv.dpdns.org/VTVGo/?sctv9
+https://tv.vietanhtv.top/mytv_b2c/mytvb2c.php?id=790
 
 #EXTINF:-1 tvg-id="sctv10hd" group-title="SCTV" tvg-logo="",SCTV10 HD (Huyndai Shopping)
 #https://vietanhtv.id.vn/sctv/tv.php?id=sctv10-0faf313b
@@ -196,43 +243,59 @@ https://vmttv.dpdns.org/VTVGo/?sctv10
 
 #EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="",SCTV11 HD (TV Star)
 #https://vietanhtv.id.vn/sctv/tv.php?id=sctv11-1d565c47
-https://vmttv.dpdns.org/VTVGo/?sctv11
+#https://vmttv.dpdns.org/VTVGo/?sctv11
+https://tv.vietanhtv.top/mytv_b2c/mytvb2c.php?id=793
 
 #EXTINF:-1 tvg-id="sctv12hd" group-title="SCTV" tvg-logo="",SCTV12 HD (Du lịch khám phá)
 #https://vietanhtv.id.vn/sctv/tv.php?id=sctv12-b0d6c023
-https://vmttv.dpdns.org/VTVGo/?sctv12
+#https://vmttv.dpdns.org/VTVGo/?sctv12
+https://tv.vietanhtv.top/mytv_b2c/mytvb2c.php?id=796
 
 #EXTINF:-1 tvg-id="sctv13hd" group-title="SCTV" tvg-logo="",SCTV13 HD (Phụ nữ & Gia đình)
 #https://vietanhtv.id.vn/sctv/tv.php?id=sctv13-67f88fcb
-https://vmttv.dpdns.org/VTVGo/?sctv13
+#https://vmttv.dpdns.org/VTVGo/?sctv13
+https://tv.vietanhtv.top/mytv_b2c/mytvb2c.php?id=799
 
 #EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="",SCTV14 HD (Kênh Phim Việt)
 #https://vietanhtv.id.vn/sctv/tv.php?id=sctv14-789c9f45
-https://vmttv.dpdns.org/VTVGo/?sctv14
+#https://vmttv.dpdns.org/VTVGo/?sctv14
+https://tv.vietanhtv.top/mytv_b2c/mytvb2c.php?id=802
+
+#EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="",SCTV15 HD (SSportT2)
+https://tv.vietanhtv.top/mytv_b2c/mytvb2c.php?id=823
 
 #EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="",SCTV16 HD (Phim nước ngoài)
 #https://vietanhtv.id.vn/sctv/tv.php?id=sctv16-dd1535e8
-https://vmttv.dpdns.org/VTVGo/?sctv16
+#https://vmttv.dpdns.org/VTVGo/?sctv16
+https://tv.vietanhtv.top/mytv_b2c/mytvb2c.php?id=805
+
+#EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="",SCTV17 HD (Ssport)
+https://tv.vietanhtv.top/mytv_b2c/mytvb2c.php?id=826
 
 #EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="",SCTV18 HD
 #https://vietanhtv.id.vn/sctv/tv.php?id=sctv18-398b0b4e
-https://vmttv.dpdns.org/VTVGo/?sctv18
+#https://vmttv.dpdns.org/VTVGo/?sctv18
+https://tv.vietanhtv.top/mytv_b2c/mytvb2c.php?id=808
 
 #EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="",SCTV19 HD | T Channel
 #https://vietanhtv.id.vn/sctv/tv.php?id=sctv19-bf00bd02
-https://vmttv.dpdns.org/VTVGo/?sctv19
+#https://vmttv.dpdns.org/VTVGo/?sctv19
+https://tv.vietanhtv.top/mytv_b2c/mytvb2c.php?id=811
 
 #EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV" tvg-logo="",SCTV20 HD (Kênh ca nhạc)
 #https://vietanhtv.id.vn/sctv/tv.php?id=sctv19-cb98949a
-https://vmttv.dpdns.org/VTVGo/?sctv20
+#https://vmttv.dpdns.org/VTVGo/?sctv20
+https://tv.vietanhtv.top/mytv_b2c/mytvb2c.php?id=814
 
 #EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="",SCTV21 HD (Việt Nam ký ức)
 #https://vietanhtv.id.vn/sctv/tv.php?id=sctv-21-57de221a
-https://vmttv.dpdns.org/VTVGo/?sctv21
+#https://vmttv.dpdns.org/VTVGo/?sctv21
+https://tv.vietanhtv.top/mytv_b2c/mytvb2c.php?id=817
 
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="",SCTV Phim Tổng Hợp HD
 #https://vietanhtv.id.vn/sctv/tv.php?id=sctv-phim-tong-hop-e6d2df88
-https://vmttv.dpdns.org/VTVGo/?sctvphim
+#https://vmttv.dpdns.org/VTVGo/?sctvphim
+https://tv.vietanhtv.top/mytv_b2c/mytvb2c.php?id=766
 
 #-*--Địa phương-*--#
 
@@ -480,7 +543,41 @@ https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="cna" group-title="Quốc Tế" tvg-logo="",CNA
 https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="ap" group-title="Quốc Tế" tvg-logo="",Animal Plannet
+https://tv.vietanhtv.top/mytv_b2c/mytvb2c.php?id=394
 
+#EXTINF:-1 tvg-id="ap" group-title="Quốc Tế" tvg-logo="https://s77107.cdn.mytvnet.vn/vimages/ff/f7/79/9d/da/a0/ff79d-pmusicboxhd-channel-unkn.png",Music Box (HD)
+https://tv.vietanhtv.top/mytv_b2c/mytvb2c.php?id=69
 
+#EXTINF:-1 tvg-id="abc" group-title="Quốc Tế" tvg-logo="https://s77107.cdn.mytvnet.vn/vimages/35/56/6a/ab/b6/61/356ab-pabcaustralia-channel-unkn.png",ABC Australia
+https://tv.vietanhtv.top/mytv_b2c/mytvb2c.php?id=321
 
+#EXTINF:-1 tvg-id="abc" group-title="Quốc Tế" tvg-logo="https://s77107.cdn.mytvnet.vn/vimages/22/22/2d/d1/1c/cb/222d1-pdiscoveryhd-channel-unkn.png",Discovery(HD)
+https://tv.vietanhtv.top/mytv_b2c/mytvb2c.php?id=363
 
+#EXTINF:-1 tvg-id="abc" group-title="Quốc Tế" tvg-logo="https://s77107.cdn.mytvnet.vn/vimages/88/8b/b1/1b/b3/3f/88b1b-pftvhd-channel-unkn.png",FTV(HD)
+https://tv.vietanhtv.top/mytv_b2c/mytvb2c.php?id=362
+
+#EXTINF:-1 tvg-id="abc" group-title="Quốc Tế" tvg-logo="https://s77107.cdn.mytvnet.vn/vimages/6b/ba/a3/36/60/0a/6ba36-pwarnerhd-channel-unkn.png",WarnerHD
+https://tv.vietanhtv.top/mytv_b2c/mytvb2c.php?id=361
+
+#EXTINF:-1 tvg-id="abc" group-title="Quốc Tế" tvg-logo="https://s77107.cdn.mytvnet.vn/vimages/ee/e3/3d/d4/42/2e/ee3d4-phbohd-channel-unkn.png",HBO HD
+https://tv.vietanhtv.top/mytv_b2c/mytvb2c.php?id=385
+
+#EXTINF:-1 tvg-id="abc" group-title="Quốc Tế" tvg-logo="https://s77107.cdn.mytvnet.vn/vimages/d5/5e/e3/3f/f1/16/d5e3f-pcinemaxhd-channel-unkn.png",Cinemax HD
+https://tv.vietanhtv.top/mytv_b2c/mytvb2c.php?id=386
+
+#EXTINF:-1 tvg-id="abc" group-title="Quốc Tế" tvg-logo="https://s77107.cdn.mytvnet.vn/vimages/18/85/5c/c3/3f/f4/185c3-paxnhd-channel-unkn.png",AXN HD
+https://tv.vietanhtv.top/mytv_b2c/mytvb2c.php?id=387
+
+#EXTINF:-1 tvg-id="abc" group-title="Quốc Tế" tvg-logo="https://s77107.cdn.mytvnet.vn/vimages/df/f4/4f/f3/34/46/df4f3-pcartoonnetworkhd-channel-unkn.png",CartoonNetwork HD
+https://tv.vietanhtv.top/mytv_b2c/mytvb2c.php?id=391
+
+#EXTINF:-1 tvg-id="abc" group-title="Quốc Tế" tvg-logo="https://s77107.cdn.mytvnet.vn/vimages/b4/4a/a5/5a/ae/e6/b4a5a-pcnnhd-channel-unkn.png",CNN HD
+https://tv.vietanhtv.top/mytv_b2c/mytvb2c.php?id=392
+
+#EXTINF:-1 tvg-id="abc" group-title="Quốc Tế" tvg-logo="https://s77107.cdn.mytvnet.vn/vimages/86/64/4a/a2/2d/dd/864a2-panimalplannethd-channel-unkn.png",Animal Plannet HD
+https://tv.vietanhtv.top/mytv_b2c/mytvb2c.php?id=394
+
+#EXTINF:-1 tvg-id="abc" group-title="Quốc Tế" tvg-logo="https://s77107.cdn.mytvnet.vn/vimages/c6/62/24/4f/fb/bf/c624f-pdreamworkshd-channel-unkn.png",DreamWorks (HD)
+https://tv.vietanhtv.top/mytv_b2c/mytvb2c.php?id=553
