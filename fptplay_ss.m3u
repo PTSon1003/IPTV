@@ -196,11 +196,12 @@ https://tv.vietanhtv.top/mytv_b2c/mytvb2c.php?id=745
 #EXTINF:-1 tvg-id="sctv1hd" tvg-group-logo="https://bom.so/wJ7RFL" group-title="SCTV" tvg-logo="",SCTV1 HD (Hài)
 #https://vietanhtv.id.vn/sctv/tv.php?id=sctv1-hd-7f2aafec
 #https://vmttv.dpdns.org/VTVGo/?sctv1
-https://tv.vietanhtv.top/mytv_b2c/mytvb2c.php?id=769
+#https://tv.vietanhtv.top/mytv_b2c/mytvb2c.php?id=769
+https://freem3u.xyz/api/live/play.m3u8?vid=182
 
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="",SCTV2 HD | TODAY TV
-#https://liveh12.vtvprime.vn/hls/SCTV2/03.m3u8
-https://tv.vietanhtv.top/mytv_b2c/mytvb2c.php?id=772
+https://liveh12.vtvprime.vn/hls/SCTV2/03.m3u8
+#https://tv.vietanhtv.top/mytv_b2c/mytvb2c.php?id=772
 
 #EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="",SCTV3 HD (Kênh thiếu nhi) | SEE TV
 #https://vietanhtv.id.vn/sctv/tv.php?id=sctv3-hd-cf3adaca
