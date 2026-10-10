@@ -56,7 +56,7 @@ https://vips-livecdn.fptplay.net/live/media/vietnamtoday/live-hls-avc/vietnamtod
 # --- Nhóm HTV/HTVC ---
 
 #EXTINF:-1 tvg-id="htv1" tvg-group-logo="https://bom.so/uJvwTF" group-title="HTV/HTVC" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/HTV/HTV1.png",HTV1 HD
-https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/live/media/htv1/live-hls-avc/htv1-avc1_4000000=10000-mp4a_131600=20000.m3u8
 
 #EXTINF:-1 tvg-id="htv2hd" group-title="HTV/HTVC" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/HTV/HTV2.png",HTV2 HD | Vie Channel
 https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
@@ -71,14 +71,16 @@ https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist_b2500000.m3u8
 https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="htv7hd" group-title="HTV/HTVC" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/HTV/HTV7.png",HTV7 HD
-https://live.fptplay53.net/epzhd1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
+https://vips-livecdn.fptplay.net/live/media/htv7/live247-hls-avc/htv7-avc1_5600000=10000-mp4a_131600=20000.m3u8
 
 #EXTINF:-1 tvg-id="htv9hd" group-title="HTV/HTVC" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/HTV/HTV9.png",HTV9 HD
-https://live.fptplay53.net/epzhd2/htv9hd_vhls.smil/chunklist_b5000000.m3u8
+https://vips-livecdn.fptplay.net/live/media/htv9/live247-hls-avc/htv9-avc1_5600000=10000-mp4a_131600=20000.m3u8
 
 
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV/HTVC" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/HTV/HTVTheThao.png",HTV Thể Thao HD
-https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
+https://vips-livecdn.fptplay.net/live/media/htvthethao/live247-hls-avc/htvthethao-avc1_5600000=10000-mp4a_131600=20000.m3u8
+
+
 
 # --- Nhóm HTVC ---
 
@@ -426,18 +428,17 @@ https://liveatmvng.vtvprime.vn/live/data8/SCTVPHIM/Live_DASHDRM/SCTVPHIM.mpd
 # --- Nhóm THVL ---
 
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="THVL" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THVL1_VinhLong.png",THVL1 HD - Vĩnh Long 1
-https://live.fptplay53.net/epzhd2/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
-#https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist_b4200000.m3u8
+https://vips-livecdn.fptplay.net/live/media/vinhlong1/live247-hls-avc/vinhlong1-avc1_400000=10004-mp4a_140800_vie=20000.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="THVL" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THVL2_VinhLong.png" ,THVL2 HD - Vĩnh Long 2
-https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
+https://vips-livecdn.fptplay.net/live/media/vinhlong2/live247-hls-avc/vinhlong2-avc1_400000=10004-mp4a_140800_vie=20000.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title="THVL" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THVL3_VinhLong.png" ,THVL3 HD - Vĩnh Long 3
-https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
+https://vips-livecdn.fptplay.net/live/media/vinhlong3/live247-hls-avc/vinhlong3-avc1_400000=10004-mp4a_140800_vie=20000.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="THVL" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THVL4_VinhLong.png",THVL4 HD - Vĩnh Long 4
-#https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8
-https://live.fptplay53.net/epzhd2/vinhlong4-hd_vhls.smil/chunklist_b1800000.m3u8
+https://vips-livecdn.fptplay.net/live/media/vinhlong4/live247-hls-avc/vinhlong4-avc1_400000=10004-mp4a_140800_vie=20000.m3u8
+https://vips-livecdn.fptplay.net/live/media/vinhlong4-hd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong5hd" group-title="THVL" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THVL5_VinhLong.png", THVL5 HD - Báo và PTTH Vĩnh Long
 #https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8
