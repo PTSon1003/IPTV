@@ -56,19 +56,24 @@ https://vips-livecdn.fptplay.net/live/media/vietnamtoday/live-hls-avc/vietnamtod
 # --- Nhóm HTV/HTVC ---
 
 #EXTINF:-1 tvg-id="htv1" tvg-group-logo="https://bom.so/uJvwTF" group-title="HTV/HTVC" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/HTV/HTV1.png",HTV1 HD
-https://vips-livecdn.fptplay.net/live/media/htv1/live-hls-avc/htv1-avc1_4000000=10000-mp4a_131600=20000.m3u8
+#https://vips-livecdn.fptplay.net/live/media/htv1/live-hls-avc/htv1-avc1_4000000=10000-mp4a_131600=20000.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=190
 
 #EXTINF:-1 tvg-id="htv2hd" group-title="HTV/HTVC" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/HTV/HTV2.png",HTV2 HD | Vie Channel
-https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
+#https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=191
 
 #EXTINF:-1 tvg-id="htv3" group-title="HTV/HTVC" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/HTV/HTV3.png",HTV3 HD
-https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist_b2500000.m3u8
+#https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist_b2500000.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=192
 
-#EXTINF:-1 tvg-id="htvkey" group-title="HTV/HTVC" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/HTV/HTVKeys.png", HTV Keys HD
-https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="htvkey" group-title="HTV/HTVC" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/HTV/HTVKeys.png", HTV4 Keys HD
+#https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist_b2500000.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=9
 
 #EXTINF:-1 tvg-id="htv5hd" group-title="HTV/HTVC" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/ThietYeu/BTV9.png",HTV5 HD | An Viên TV
-https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8
+#https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=151
 
 #EXTINF:-1 tvg-id="htv7hd" group-title="HTV/HTVC" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/HTV/HTV7.png",HTV7 HD
 https://vips-livecdn.fptplay.net/live/media/htv7/live247-hls-avc/htv7-avc1_5600000=10000-mp4a_131600=20000.m3u8
@@ -76,34 +81,38 @@ https://vips-livecdn.fptplay.net/live/media/htv7/live247-hls-avc/htv7-avc1_56000
 #EXTINF:-1 tvg-id="htv9hd" group-title="HTV/HTVC" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/HTV/HTV9.png",HTV9 HD
 https://vips-livecdn.fptplay.net/live/media/htv9/live247-hls-avc/htv9-avc1_5600000=10000-mp4a_131600=20000.m3u8
 
-
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV/HTVC" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/HTV/HTVTheThao.png",HTV Thể Thao HD
 https://vips-livecdn.fptplay.net/live/media/htvthethao/live247-hls-avc/htvthethao-avc1_5600000=10000-mp4a_131600=20000.m3u8
-
-
 
 # --- Nhóm HTVC ---
 
 #EXTINF:-1 tvg-id="htvccanhachd" group-title="HTV/HTVC" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/HTVC/HTVCCaNhac.png", HTVC Ca nhạc HD
-https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist_b5000000.m3u8
+#https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist_b5000000.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=14
 
 #EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="HTV/HTVC" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/HTVC/HTVCGiaDinh.png", HTVC Gia đình HD
-https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist_b5000000.m3u8
+#https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist_b5000000.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=11
 
 #EXTINF:-1 tvg-id="htvcdulichhd" group-title="HTV/HTVC" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/HTVC/HTVCDuLichVaCuocSong.png", HTVC Du lịch Cuộc sống HD
-https://live.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist_b5000000.m3u8
+#https://live.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist_b5000000.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=133
 
 #EXTINF:-1 tvg-id="htvcphunuhd" group-title="HTV/HTVC" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/HTVC/HTVCPhuNu.png", HTVC Phụ nữ HD
-https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist_b5000000.m3u8
+#https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist_b5000000.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=12
 
 #EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTV/HTVC" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/HTVC/HTVCThuanViet.png", HTVC Thuần Việt HD
-https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist_b5000000.m3u8
+#https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist_b5000000.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=13
 
 #EXTINF:-1 tvg-id="htvcphimhd" group-title="HTV/HTVC" tvg-logo="https://img.lichphatsong.xyz/logo/htvcphimhd.jpg",HTVC Phim HD
-https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist_b5000000.m3u8
+#https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist_b5000000.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=15
 
 #EXTINF:-1 tvg-id="htvcplushd" group-title="HTV/HTVC" tvg-logo="https://img.lichphatsong.xyz/logo/htvcplushd.jpg" ,HTVC PLUS
-https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist_b5000000.m3u8
+#https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist_b5000000.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=132
 
 # --- Nhóm VTVcab ---
 
@@ -437,18 +446,18 @@ https://vips-livecdn.fptplay.net/live/media/vinhlong2/live247-hls-avc/vinhlong2-
 https://vips-livecdn.fptplay.net/live/media/vinhlong3/live247-hls-avc/vinhlong3-avc1_400000=10004-mp4a_140800_vie=20000.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="THVL" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THVL4_VinhLong.png",THVL4 HD - Vĩnh Long 4
-https://vips-livecdn.fptplay.net/live/media/vinhlong4/live247-hls-avc/vinhlong4-avc1_400000=10004-mp4a_140800_vie=20000.m3u8
-https://vips-livecdn.fptplay.net/live/media/vinhlong4-hd_vhls.smil/chunklist_b5000000.m3u8
+#https://vips-livecdn.fptplay.net/live/media/vinhlong4/live247-hls-avc/vinhlong4-avc1_400000=10004-mp4a_140800_vie=20000.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=220
 
 #EXTINF:-1 tvg-id="vinhlong5hd" group-title="THVL" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THVL5_VinhLong.png", THVL5 HD - Báo và PTTH Vĩnh Long
 #https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8
-https://live.fptplay53.net/epzhd2/vinhlong5hd_vhls.smil/chunklist_b1800000.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=91
 
 # --- Nhóm Trong nước ---
 
 #EXTINF:-1 tvg-id="tayninhtv" group-title="Địa Phương" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/tayninh.png", TN HD | TH Tây Ninh
 #https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/playlist.m3u8
-https://live.fptplay53.net/epzsd1/tayninh01_hls.smil/chunklist.m3u8
+https://vips-livecdn.fptplay.net/MjYzMTI4M3x0YXluaW5oMDFfaGxzLnNtaWx8dmlldHRlbHwxNzkxNjk0NDI2fDE3MS4yNDguMjQ1LjE1MnxiMjc3ZGFmZGZhYjU5MWU3YmViOGJiZGE2Y2FkZjU5OQ/epzsd1/tayninh01_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="angiang1" group-title="Địa Phương" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/angiang1.png", ATV1 HD | TH An Giang
 https://live.fptplay53.net/epzsd1/angiang01_hls.smil/chunklist.m3u8
@@ -624,17 +633,14 @@ https://live.fptplay53.net/fnxsd1/sonla_hls.smil/chunklist.m3u8
 #https://live.mediatech.vn/live/28595222e707a364251b8724717894baa46/playlist.m3u8
 
 #EXTINF:-1 tvg-id="thainguyen" group-title="Địa Phương" tvg-logo="https://freem3u.xyz/static/images/diaphuong/thainguyen.png", TN1 HD | TH Thái Nguyên
-https://live.fptplay53.net/fnxsd1/thainguyen_hls.smil/chunklist.m3u8
-#https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv360&q=high&pkg=pkg11.hni\
-#https://streaming.thainguyentv.vn/hls/livestream.m3u8
+https://streaming.thainguyentv.vn/hls/livestream.m3u8
 
 #EXTINF:-1 tvg-id="thanhhoa" group-title="Địa Phương" tvg-logo="https://freem3u.xyz/static/images/diaphuong/thanhhoa.png", TTV HD | TH Thanh Hóa
 https://live.fptplay53.net/fnxsd1/thanhhoa_hls.smil/chunklist.m3u8
 #https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv525&q=sd&pkg=pkg12.hni
 
 #EXTINF:-1 tvg-id="tuyenquang" group-title="Địa Phương" tvg-logo="https://freem3u.xyz/static/images/diaphuong/tuyenquang.png", TTV HD | TH Tuyên Quang
-https://live.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist.m3u8
-#https://streaming.tuyenquangtv.vn/channel/tuyenquang/playlist.m3u8
+https://streaming.tuyenquangtv.vn/channel/tuyenquang/playlist.m3u8
 #https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv365&q=high&pkg=pkg11.hni
 
 # --- Nhóm In The Box ---
