@@ -70,7 +70,7 @@ https://livesct.vtvprime.vn/Live_DASHDRM1/VTV5_TN/manifest.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
+#KODIPROP:inputstream.adaptive.license_key=ea293eba54ad4ca0b028576afcee88c2:18ac6a360d0e48979d4b6c612f04b31f
 https://livebytatm.vtvprime.vn/live/data8/VTV6/Live_DASHDRM/VTV6.mpd
 
 #EXTINF:-1 tvg-id="VTV7" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTV/VTV7.png",VTV7
