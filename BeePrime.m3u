@@ -968,6 +968,29 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
 
 # --- SPOTV  ---
 
+#EXTINF:-1 tvg-id="" group-title="KOREA" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SPOTV/SPOTV1.png",SPORTS
+#EXTVLCOPT:http-user-agent=vn.sctvonline.web/2.16.168.98298 (Windows/10; ; desktop)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6edf6637bba74f0487b114b2aaf531d4:9bd76d316021ac18258cc1ce8a74e125,68bba067e56f45769f6989c33d96f872:b5749cab770e3d289584e14a532cbc44
+https://s7775.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv587/manifest.mpd?prefix=1&did=127&ctl=239.175
+#--key 6edf6637bba74f0487b114b2aaf531d4:9bd76d316021ac18258cc1ce8a74e125
+#--key 6edf6637bba74f0487b114b2aaf531d4:9bd76d316021ac18258cc1ce8a74e125
+#--key 68bba067e56f45769f6989c33d96f872:b5749cab770e3d289584e14a532cbc44
+#--key 68bba067e56f45769f6989c33d96f872:b5749cab770e3d289584e14a532cbc44
+
+#EXTINF:-1 tvg-id="" group-title="KOREA" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SPOTV/SPOTV2.png",SPOTV2
+#EXTVLCOPT:http-user-agent=vn.sctvonline.web/2.16.168.98298 (Windows/10; ; desktop)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8cb2f05c70ab47f2bcf113f68ac47005:73eff7ea42f3a2e3d5fe47754a87eacd,b9877231bd9b401baa3b0e95f5f6951a:975cffd0c32fd12a0a9e4b995cdd8c87
+https://s7729.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv588/manifest.mpd?prefix=1&did=127&ctl=239.175
+#--key 8cb2f05c70ab47f2bcf113f68ac47005:73eff7ea42f3a2e3d5fe47754a87eacd
+#--key 8cb2f05c70ab47f2bcf113f68ac47005:73eff7ea42f3a2e3d5fe47754a87eacd
+#--key b9877231bd9b401baa3b0e95f5f6951a:975cffd0c32fd12a0a9e4b995cdd8c87
+#--key b9877231bd9b401baa3b0e95f5f6951a:975cffd0c32fd12a0a9e4b995cdd8c87
 
 # --- RẠP PHIM ---
 #EXTINF:-1 tvg-id="tvb-vietnam" group-title="Rạp Phim" tvg-logo="https://freem3u.xyz/static/images/tvb/tvbv.png", TVB Việt Nam
